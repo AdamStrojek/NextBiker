@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login.phone_number">Numer telefonu:</string>
+    <string name="login.pin_code">Kod PIN:</string>
+    <string name="login.login">Zaloguj</string>
+    <string name="login.remember_me">Zapamiętaj mnie</string>
+    <string name="login.register">Rejestruj</string>
+    <string name="login.lost_pin">Przypomnij PIN</string>
+    <string name="login.register_hint">Zostaniesz przekierowany do oficjalnej strony NextBike, na której możesz dokonać rejestracji</string>
+    <string name="login.label">NextBiker — Logowanie</string>
+    <string name="rent.bike_no">Numer roweru:</string>
+    <string name="rent.rent">Wynajmij</string>
+</resources>

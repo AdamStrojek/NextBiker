@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="ContentDescription">
+        <ignore path="res/layout/login.xml" />
+        <ignore path="res/layout/lookup.xml" />
+        <ignore path="res/layout/rential.xml" />
+    </issue>
+    <issue id="HardcodedText">
+        <ignore path="res/layout/rential.xml" />
+    </issue>
+    <issue id="UselessParent">
+        <ignore path="res/layout/rential.xml" />
+    </issue>
+</lint>

@@ -1,0 +1,1449 @@
+<?xml version="1.0" ?>
+<markers>
+	<country domain="de" hotline="+493069205046" lat="50.7086" lng="10.6348" name="nextbike Germany" zoom="5">
+		<city lat="48.3647" lng="10.8916" name="Augsburg" uid="178" zoom="13">
+			<place lat="48.40275" lng="10.87915" name="Augsburg Nord" number="4554" spot="1" uid="81906"/>
+			<place lat="48.36591" lng="10.9049" name="City Galerie" number="4557" spot="1" uid="81912"/>
+			<place lat="48.36861" lng="10.89536" name="Ernst-Reuter-Platz" number="4556" spot="1" uid="81910"/>
+			<place lat="48.35496" lng="10.90264" name="Fachhochschule" number="4562" spot="1" uid="82184"/>
+			<place lat="48.30989" lng="10.89352" name="Haunstetten West" number="4552" spot="1" uid="81903"/>
+			<place lat="48.36489" lng="10.88795" name="Hauptbahnhof Radstation" number="4561" spot="1" uid="82244"/>
+			<place lat="48.38031" lng="10.85562" name="Kriegshaber" number="4551" spot="1" uid="81902"/>
+			<place lat="48.36564" lng="10.93678" name="Lechhausen / Neuer Ostfriedhof" number="4555" spot="1" uid="81907"/>
+			<place lat="48.38105" lng="10.87325" name="Oberhausen Bahnhof" number="4558" spot="1" uid="81913"/>
+			<place lat="48.35609" lng="10.96397" name="P+R Friedberg-West" number="4553" spot="1" uid="81905"/>
+			<place lat="48.36241" lng="10.86807" name="Pfersee" number="4564" spot="1" uid="117845"/>
+			<place lat="51.24863" lng="6.82574" name="Sporthotel Borussia" spot="1" uid="121996"/>
+			<place lat="48.37101" lng="10.89739" name="Stadtwerke" number="4559" spot="1" uid="81914"/>
+			<place lat="48.34985" lng="10.91779" name="Zoo / Botanischer Garten" number="4550" spot="1" uid="81900"/>
+		</city>
+		<city lat="52.5087" lng="13.3563" name="Berlin" uid="20" zoom="12">
+			<place lat="52.52051" lng="13.41149" name="Alexanderplatz/ Cubix-Filmpalast" spot="1" uid="26307"/>
+			<place lat="52.52215" lng="13.41356" name="Alexanderplatz/ Park Inn Hotel" spot="1" uid="31035"/>
+			<place lat="52.51874" lng="13.4092" name="Alexanderplatz/ Rotes Rathaus" spot="1" uid="6059"/>
+			<place lat="52.51945" lng="13.39723" name="Am Kupfergraben/ Museumsinsel" spot="1" uid="40512"/>
+			<place lat="52.52925" lng="13.36281" name="AO Hostel Hauptbahnhof" spot="1" uid="122300"/>
+			<place lat="52.50906" lng="13.42424" name="AO Hostel Mitte" spot="1" uid="122299"/>
+			<place lat="52.49989" lng="13.32279" name="arthotel Berlin-CityCenterWest" spot="1" uid="17204"/>
+			<place lat="52.50154" lng="13.33122" name="arthotel Berlin-Ku´damm" spot="1" uid="33441"/>
+			<place lat="52.51247" lng="13.41037" name="arthotel Berlin-Mitte/ Wallstr." spot="1" uid="23226"/>
+			<place lat="52.5097" lng="13.37597" name="Bahnhof Potsdamer Platz" spot="1" uid="15349"/>
+			<place lat="52.50765" lng="13.3871" name="Ballongarten, Zimmerstr. 95-100" spot="1" uid="8451"/>
+			<place lat="52.51416" lng="13.40542" name="Breite Str./Gertraudenstr." spot="1" uid="122289"/>
+			<place lat="52.50546" lng="13.34044" name="Budapesterstr./ Eingang Zoo" spot="1" uid="24740"/>
+			<place lat="52.51947" lng="13.37229" name="Bundestag/ Paul-Löbel-Allee" spot="1" uid="42880"/>
+			<place lat="52.52088" lng="13.40109" name="Burgstr./Anna-Louisa-Karsch-Platz" spot="1" uid="122290"/>
+			<place lat="52.53439" lng="13.51743" name="Comfort Hotel Lichtenberg" spot="1" uid="50580"/>
+			<place lat="52.45311" lng="13.38503" name="DB Direkt Ullsteinhaus" spot="1" uid="100110"/>
+			<place lat="52.51838" lng="13.4005" name="Dom/ Am Lustgarten" spot="1" uid="31007"/>
+			<place lat="52.52356" lng="13.38809" name="Friedrichstadtpalast" spot="1" uid="122293"/>
+			<place lat="52.50456" lng="13.3353" name="Gedächtniskirche" spot="1" uid="24764"/>
+			<place lat="52.5148" lng="13.39127" name="Gendarmenmarkt" spot="1" uid="42881"/>
+			<place lat="52.52323" lng="13.40293" name="Hackescher Markt / Neue Promenade" spot="1" uid="31016"/>
+			<place lat="52.52413" lng="13.37052" name="Hauptbahnhof / Washingtonplatz" spot="1" uid="43890"/>
+			<place lat="52.52541" lng="13.36923" name="Hauptbahnhof/ Europaplatz" spot="1" uid="49399"/>
+			<place lat="52.5143" lng="13.37976" name="Holocaust Mahnmal" spot="1" uid="42389"/>
+			<place lat="52.50672" lng="13.30567" name="Hotel Domicil" spot="1" uid="15074"/>
+			<place lat="52.51021" lng="13.26788" name="Hotel Villa Kastania" spot="1" uid="15073"/>
+			<place lat="52.51755" lng="13.39394" name="Humboldt-Uni - Unter den Linden" spot="1" uid="46258"/>
+			<place lat="52.52069" lng="13.41568" name="Karl-Liebknecht-Str./Alexanderstr." spot="1" uid="122283"/>
+			<place lat="52.52009" lng="13.40564" name="Karl-Liebknecht-Str./Spandauer Str." spot="1" uid="122288"/>
+			<place lat="52.52427" lng="13.40629" name="Karl-Marx-Allee/Otto-Braun-Str." spot="1" uid="122285"/>
+			<place lat="52.53873" lng="13.40969" name="Kastanienallee/Oderberger Str." spot="1" uid="122297"/>
+			<place lat="52.52033" lng="13.42289" name="Kino International-Karl-Marx-Allee" spot="1" uid="45675"/>
+			<place lat="52.53655" lng="13.41815" name="Kollwitzplatz" spot="1" uid="122298"/>
+			<place lat="52.50392" lng="13.33045" name="Kurfürstendamm / Joachimstaler Straße" spot="1" uid="44437"/>
+			<place lat="52.53033" lng="13.38141" name="Mercure Hotel / Invalidenstr." spot="1" uid="42879"/>
+			<place lat="52.50654" lng="13.36826" name="Nationalgalerie / Reichpietschufer" spot="1" uid="46000"/>
+			<place lat="52.51378" lng="13.3352" name="Novotel - Am Tiergarten" spot="1" uid="62575"/>
+			<place lat="52.51646" lng="13.37965" name="Pariser Platz / Hotel Adlon" spot="1" uid="40509"/>
+			<place lat="52.48481" lng="13.38565" name="Platz der Luftbrücke" spot="1" uid="86224"/>
+			<place lat="52.5094" lng="13.37195" name="potsdamer str./Ben-Gurion-Str." spot="1" uid="122291"/>
+			<place lat="52.49794" lng="13.36221" name="Potsdamer Straße / Bülowstraße" spot="1" uid="29253"/>
+			<place lat="52.53625" lng="13.43353" name="Prenzlauer Allee/Danziger Str." spot="1" uid="122281"/>
+			<place lat="52.51955" lng="13.3765" name="Reichstag / Friedrich-Ebert Platz" spot="1" uid="42387"/>
+			<place lat="52.52996" lng="13.4011" name="Rosenthaler Platz" spot="1" uid="66033"/>
+			<place lat="52.50651" lng="13.33293" name="S-Bahn Zoologischer Garten" spot="1" uid="44340"/>
+			<place lat="52.52002" lng="13.38778" name="S. + U.-Bahnhof Friedrichstr." spot="1" uid="40510"/>
+			<place lat="52.50594" lng="13.32291" name="Savignyplatz" spot="1" uid="43964"/>
+			<place lat="52.5182" lng="13.42788" name="Straußberger Platz" spot="1" uid="122287"/>
+			<place lat="52.48223" lng="13.4068" name="Tempelhofer Feld - Columbiadamm" spot="1" uid="66013"/>
+			<place lat="52.4716" lng="13.38618" name="Tempelhofer Feld- Tempelhofer Damm" spot="1" uid="45969"/>
+			<place lat="52.49966" lng="13.35251" name="u-bahn nollendorfplatz" spot="1" uid="122292"/>
+			<place lat="52.51246" lng="13.38967" name="U-Bahn Stadtmitte" spot="1" uid="122295"/>
+			<place lat="52.50175" lng="13.34367" name="U-Bahnhof Wittenbergplatz" spot="1" uid="40511"/>
+			<place lat="52.54221" lng="13.41145" name="U-Bhf Eberswalder Straße" spot="1" uid="77331"/>
+			<place lat="52.49928" lng="13.42628" name="U-Bhf Görlitzer Bahnhof/Oranienstr." spot="1" uid="77052"/>
+			<place lat="52.51706" lng="13.38448" name="Unter den Linden - Madame Tussaud" spot="1" uid="35697"/>
+			<place lat="52.51701" lng="13.38857" name="Unter den Linden/ Friedrichstraße" spot="1" uid="24719"/>
+			<place lat="52.52942" lng="13.43465" name="Victors Residenz Hotel" spot="1" uid="21216"/>
+			<place lat="52.5142" lng="13.41529" name="Wallstr. / Märkisches Ufer" spot="1" uid="65700"/>
+			<place lat="52.61399" lng="13.3167" name="Winterlager" spot="1" uid="119196"/>
+		</city>
+		<city lat="52.0257" lng="8.53286" name="Bielefeld" uid="16" zoom="15">
+			<place lat="52.02055" lng="8.53427" name="Alex am Theater" spot="1" uid="42245"/>
+			<place lat="52.01975" lng="8.53401" name="Altstätter Kirchplatz / Niederwall" uid="71980"/>
+			<place lat="52.02456" lng="8.53093" name="Bielefeld - Arndtstraße - Karstadt" spot="1" uid="66555"/>
+			<place lat="52.01923" lng="8.5297" name="Bunnemannplatz (Mercur Hotel)" spot="1" uid="61803"/>
+			<place lat="52.02876" lng="8.53312" name="Hauptbahnhof" spot="1" uid="42241"/>
+			<place lat="52.02298" lng="8.53272" name="Jahnplatz Stadtbahn-HST" spot="1" uid="42244"/>
+			<place lat="52.0221" lng="8.53181" name="Niedernstraße (Neue Westfälische)" spot="1" uid="47357"/>
+			<place lat="52.02163" lng="8.53417" name="Niederwall 10 / Galerie Samuelis Baumgarte e.K." spot="1" uid="42433"/>
+			<place lat="52.05873" lng="8.55873" name="Seekrug" spot="1" uid="64036"/>
+			<place lat="52.02801" lng="8.52254" name="Siegfriedplatz" uid="87057"/>
+			<place lat="52.02483" lng="8.53425" name="Stresemannstraße HST " spot="1" uid="42452"/>
+			<place lat="52.03013" lng="8.52447" name="Turmstraße 10 / Puddingtown-Bikes" spot="1" uid="42243"/>
+		</city>
+		<city lat="50.2583" lng="10.9651" name="Coburg" uid="72" zoom="15">
+			<place lat="50.2631" lng="10.95737" name="Bahnhof" spot="1" uid="11339"/>
+			<place lat="50.25847" lng="10.9658" name="Herrngasse 4 / Tourismusinformation" spot="1" uid="11368"/>
+			<place lat="50.25854" lng="10.96445" name="Markt" spot="1" uid="11341"/>
+			<place lat="50.25977" lng="10.96645" name="Theaterplatz" spot="1" uid="11369"/>
+		</city>
+		<city lat="51.0525" lng="13.7444" name="Dresden" uid="2" zoom="13">
+			<place lat="51.06373" lng="13.74759" name="Albertplatz" number="4302" spot="1" uid="2985"/>
+			<place lat="51.05714" lng="13.72773" name="arthotel Dresden / Ostra-Allee" number="4317" uid="21692"/>
+			<place lat="51.06503" lng="13.74128" name="Bahnhof Neustadt / Schlesischer Platz" number="4332" spot="1" uid="73"/>
+			<place lat="51.05735" lng="13.7468" name="Carolaplatz" spot="1" uid="121843"/>
+			<place lat="51.04649" lng="13.74471" name="Cityherberge lingner allee" spot="1" uid="94833"/>
+			<place lat="51.05564" lng="13.74553" name="Elbufer" spot="1" uid="122242"/>
+			<place lat="51.05236" lng="13.74193" name="Frauenkirche" number="4306" spot="1" uid="40"/>
+			<place lat="51.07413" lng="13.73885" name="Hansastraße 43 / NH-Hotel" spot="1" uid="75238"/>
+			<place lat="51.04049" lng="13.73369" name="Hauptbahnhof / Wiener Platz" number="4313" spot="1" uid="120"/>
+			<place lat="51.03909" lng="13.73288" name="Hauptbahnhof/Fritz-Löffler-Straße" spot="1" uid="122241"/>
+			<place lat="51.04315" lng="13.73487" name="Ibis Hotel Bastei / Prager Straße" number="4318" spot="1" uid="15334"/>
+			<place lat="51.04401" lng="13.73503" name="Ibis Hotel Königstein / Prager Straße" number="4311" spot="1" uid="41380"/>
+			<place lat="51.04482" lng="13.73548" name="Ibis Hotel Lilienstein / Prager Straße" number="4324" spot="1" uid="41734"/>
+			<place lat="51.06208" lng="13.74539" name="Jorge-Gomondai-Platz / Hauptstraße " number="4303" spot="1" uid="13640"/>
+			<place lat="51.0539" lng="13.81498" name="Körnerplatz / Friedrich-Wieck-Straße" number="4316" spot="1" uid="12938"/>
+			<place lat="51.04902" lng="13.73898" name="Kreuzkirche" spot="1" uid="15463"/>
+			<place lat="51.05055" lng="13.73765" name="Kulturpalast" number="4308" spot="1" uid="14262"/>
+			<place lat="51.07781" lng="13.75108" name="Macrander Hotel / Stauffenbergallee" number="4320" spot="1" uid="17178"/>
+			<place lat="51.05674" lng="13.72824" name="Maxstraße / Ostra-Allee" number="4301" spot="1" uid="42849"/>
+			<place lat="51.05139" lng="13.74467" name="Neumarkt" spot="1" uid="122238"/>
+			<place lat="51.05802" lng="13.74141" name="Neustädter Markt" spot="1" uid="122252"/>
+			<place lat="51.0571" lng="13.73143" name="Ostra-Ufer / Kongresszentrum" number="4309" spot="1" uid="40611"/>
+			<place lat="51.06055" lng="13.73896" name="Palaisplatz" spot="1" uid="122009"/>
+			<place lat="51.04929" lng="13.74366" name="Pirnaischer Platz" spot="1" uid="122246"/>
+			<place lat="51.05182" lng="13.73231" name="Postplatz" number="4307" spot="1" uid="10924"/>
+			<place lat="51.0589" lng="13.75242" name="Rosa-Luxemburg-Platz" spot="1" uid="121772"/>
+			<place lat="51.05229" lng="13.80741" name="Schillerplatz" number="4315" spot="1" uid="12937"/>
+			<place lat="51.05341" lng="13.73877" name="Schloßplatz / Brühlsche Terrasse / Hofkirche " number="4305" spot="1" uid="19088"/>
+			<place lat="51.05743" lng="13.74681" name="Staatskanzlei" spot="1" uid="122244"/>
+			<place lat="51.052" lng="13.73638" name="Taschenbergpalais" spot="1" uid="122240"/>
+			<place lat="51.05349" lng="13.74437" name="Terrassenufer" spot="1" uid="122243"/>
+			<place lat="51.05423" lng="13.73749" name="Theaterplatz / Italienisches Dörfchen / Semperoper" number="4304" spot="1" uid="14266"/>
+			<place lat="51.07761" lng="13.71673" name="Verkehrsverbund Oberelbe" spot="1" uid="122247"/>
+			<place lat="51.06093" lng="13.85196" name="werkstatt" uid="113428"/>
+		</city>
+		<city lat="51.2243" lng="6.77204" name="Düsseldorf" uid="50" zoom="12">
+			<place lat="51.22651" lng="6.79908" name="Ackerstr. / Gerresheimer Str." number="5011" spot="1" uid="66643"/>
+			<place lat="51.24164" lng="6.73752" name="Adecco - Niederkasseler Lohweg/Bhf Seestern" number="5099" spot="1" uid="79997"/>
+			<place lat="51.21971" lng="6.7659" name="Apollo Platz" number="5023" spot="1" uid="20725"/>
+			<place lat="51.2057" lng="6.78847" name="Auf\'m Hennekamp / Redinghovenstr" spot="1" uid="122000"/>
+			<place lat="51.22642" lng="6.78305" name="Berliner Allee/Schadowstr." spot="1" uid="121912"/>
+			<place lat="51.21214" lng="6.76393" name="Bilker Allee/ Neusser Str." spot="1" uid="121916"/>
+			<place lat="51.20875" lng="6.77655" name="Bilker Arcaden" number="5008" spot="1" uid="7061"/>
+			<place lat="51.24575" lng="6.80204" name="Brehmstr / Sybelstr" spot="1" uid="122001"/>
+			<place lat="51.23846" lng="6.80315" name="Brehmstr. / Graf-Recke-Str." number="5044" spot="1" uid="2353"/>
+			<place lat="51.22679" lng="6.77117" name="Burgplatz" number="5037" spot="1" uid="3130"/>
+			<place lat="51.2379" lng="6.78937" name="Carl-Mosterts-Platz" number="5018" spot="1" uid="66645"/>
+			<place lat="51.21106" lng="6.78301" name="Corneliusstraße" spot="1" uid="121920"/>
+			<place lat="51.25265" lng="6.78236" name="Derendorfer Allee 10" number="5010" spot="1" uid="66647"/>
+			<place lat="51.23189" lng="6.80914" name="Dorortheenstr. / Grafenberger Allee" number="5031" spot="1" uid="66648"/>
+			<place lat="51.24368" lng="6.7842" name="Essenerstr. 16" uid="122497"/>
+			<place lat="51.21227" lng="6.78562" name="Fürstenplatz / Kirchfeldstr." number="5043" spot="1" uid="66651"/>
+			<place lat="51.20759" lng="6.76014" name="Georg-Schulhoff-Platz / Fährstr." number="5002" spot="1" uid="66652"/>
+			<place lat="51.2314" lng="6.78728" name="Goethe Museum / Alt Pempelfort" number="5001" spot="1" uid="2011"/>
+			<place lat="51.22804" lng="6.77658" name="Grabbeplatz/Heinrich-Heine-Allee" spot="1" uid="121913"/>
+			<place lat="51.21911" lng="6.77675" name="Graf-Adolf-Platz" spot="1" uid="121931"/>
+			<place lat="51.2204" lng="6.79241" name="Hauptbahnhof" spot="1" uid="121918"/>
+			<place lat="51.2217" lng="6.79353" name="Hauptpost / Touristeninfo" number="5000" spot="1" uid="66466"/>
+			<place lat="51.22555" lng="6.77672" name="Heinrich-Heine-Platz" number="5025" spot="1" uid="2751"/>
+			<place lat="51.21551" lng="6.77704" name="Herzogstr./Friedrichstr." spot="1" uid="121932"/>
+			<place lat="51.22412" lng="6.78745" name="Immermannstr./Oststr." spot="1" uid="121910"/>
+			<place lat="51.2267" lng="6.75857" name="Jugendherberge DJH / Düsseldorfer Str." number="5014" spot="1" uid="2009"/>
+			<place lat="51.21625" lng="6.76833" name="Jürgensplatz / Polizeipräsidium" number="5042" spot="1" uid="66667"/>
+			<place lat="51.24979" lng="6.76524" name="Kaiserswerther Str. / Uerdinger Str." number="5024" spot="1" uid="66655"/>
+			<place lat="51.20581" lng="6.78046" name="Karolingerplatz/Feuerbachstr. " number="5039" spot="1" uid="66668"/>
+			<place lat="51.21375" lng="6.77662" name="Kirchplatz" number="5041" spot="1" uid="66983"/>
+			<place lat="51.22632" lng="6.77876" name="Kö Passage" spot="1" uid="121927"/>
+			<place lat="51.22438" lng="6.77846" name="Königsalle / Trinkausstr" uid="77570"/>
+			<place lat="51.21987" lng="6.7785" name="Königsallee / Graf-Adolf-Platz" number="5004" spot="1" uid="66658"/>
+			<place lat="51.22535" lng="6.77923" name="Königsallee / Schadowstr." number="5005" spot="1" uid="7744"/>
+			<place lat="51.22306" lng="6.77923" name="Königsallee / Steinstr." number="5020" spot="1" uid="66659"/>
+			<place lat="51.22434" lng="6.77945" name="Königsallee/Giradetbrücke" spot="1" uid="121928"/>
+			<place lat="51.22143" lng="6.77936" name="Königsallee/Grünstr." spot="1" uid="121929"/>
+			<place lat="51.2313" lng="6.7617" name="Luegplatz" number="5034" spot="1" uid="2003"/>
+			<place lat="51.22605" lng="6.77211" name="Marktplatz" spot="1" uid="121915"/>
+			<place lat="51.22984" lng="6.77705" name="Maximilian Weyhe Allee/ Fritz-Röber-Str." spot="1" uid="121935"/>
+			<place lat="51.21617" lng="6.75865" name="Medienhafen / Gehrybauten" number="5006" spot="1" uid="66660"/>
+			<place lat="51.213" lng="6.75189" name="Medienhafen UCI Kino" number="5007" spot="1" uid="2008"/>
+			<place lat="51.24064" lng="6.78198" name="Nordstr./ Collenbachstr." number="5029" spot="1" uid="66677"/>
+			<place lat="51.23732" lng="6.77922" name="Nordstraße" spot="1" uid="121922"/>
+			<place lat="51.23529" lng="6.77805" name="Nordstraße U/ Fischerstr." number="5012" spot="1" uid="5920"/>
+			<place lat="51.216" lng="6.80334" name="Oberbilker Markt" number="5028" spot="1" uid="1997"/>
+			<place lat="51.219" lng="6.78423" name="Oststr. / Graf-Adolf-Str." number="5027" spot="1" uid="3521"/>
+			<place lat="52.39776" lng="9.77144" name="Podbielskistr / Pelikanstr" spot="1" uid="122002"/>
+			<place lat="51.21853" lng="6.79487" name="Radstation" number="5017" spot="1" uid="66747"/>
+			<place lat="51.2241" lng="6.76992" name="Rathausufer / Schulstraße" number="5022" spot="1" uid="3522"/>
+			<place lat="51.2365" lng="6.77152" name="Rheinterrasse" number="5035" spot="1" uid="2349"/>
+			<place lat="51.22967" lng="6.79785" name="S-Bahnhf Wehrhahn" spot="1" uid="121909"/>
+			<place lat="51.22707" lng="6.81186" name="S-Bahnhof Flingern" spot="1" uid="121923"/>
+			<place lat="51.20905" lng="6.79323" name="S-Bahnhof Volksgarten" spot="1" uid="121921"/>
+			<place lat="51.23635" lng="6.79679" name="S-Bahnhof Zoo" spot="1" uid="121911"/>
+			<place lat="51.2472" lng="6.78363" name="Spichernplatz" number="5030" spot="1" uid="1992"/>
+			<place lat="51.22249" lng="6.81316" name="Stadtwerke Düsseldorf" number="5046" spot="1" uid="66665"/>
+			<place lat="51.21905" lng="6.78764" name="Stresemannplatz" spot="1" uid="121933"/>
+			<place lat="51.23136" lng="6.77131" name="Tonhallen" spot="1" uid="121914"/>
+			<place lat="51.227" lng="6.78801" name="Tonhallenstr." number="5003" spot="1" uid="2680"/>
+			<place lat="51.22308" lng="6.78302" name="U-Bahn Steinstraße/Königsallee" spot="1" uid="121930"/>
+			<place lat="51.22412" lng="6.7955" name="Worringer Platz" spot="1" uid="121924"/>
+		</city>
+		<city lat="50.9718" lng="11.0259" name="Erfurt" uid="86" zoom="14">
+			<place lat="50.97756" lng="11.03507" name="Anger 1 / Lutherdenkmal" spot="1" uid="42470"/>
+			<place lat="50.9784" lng="11.02952" name="Benediktplatz / Tourismusinformation" spot="1" uid="18471"/>
+			<place lat="50.97721" lng="11.02297" name="Domplatz / Eingang Parkhaus" spot="1" uid="18468"/>
+			<place lat="50.97119" lng="11.01217" name="Gothaer Platz" spot="1" uid="122256"/>
+			<place lat="50.97273" lng="11.03733" name="Hauptbahnhof" spot="1" uid="18466"/>
+			<place lat="50.97644" lng="11.03073" name="Schlösserstraße / Barfüsserstraße" spot="1" uid="42472"/>
+			<place lat="50.97835" lng="11.03208" name="Wenigemarkt / südlicher Gehweg" spot="1" uid="42471"/>
+		</city>
+		<city lat="54.7804" lng="9.43571" name="Flensburg" uid="147" zoom="14">
+			<place lat="54.77619" lng="9.45539" name="Campus Unigelände" spot="1" uid="48465"/>
+			<place lat="54.7825" lng="9.43686" name="Dr.-Todsen-Str./ Ecke Angelburger Str." spot="1" uid="48469"/>
+			<place lat="54.77797" lng="9.42434" name="Exe/Friesische Str. Bushaltestelle" spot="1" uid="48468"/>
+			<place lat="54.7908" lng="9.43788" name="Fischereihafen Ostseite" spot="1" uid="48471"/>
+			<place lat="54.77497" lng="9.43737" name="Hauptbahnhof" spot="1" uid="47493"/>
+			<place lat="54.79571" lng="9.43088" name="Nordertorplatz/Phänomenta" spot="1" uid="48470"/>
+			<place lat="54.81551" lng="9.47239" name="Twedter Plack" spot="1" uid="45765"/>
+			<place lat="54.78951" lng="9.43376" name="Willy-Brandt-Platz" spot="1" uid="45760"/>
+			<place lat="54.78674" lng="9.43728" name="ZOB / Touristinformation " spot="1" uid="45757"/>
+		</city>
+		<city lat="50.1072" lng="8.66375" name="Frankfurt" uid="8" zoom="12">
+			<place lat="50.10426" lng="8.66504" name="Baseler Straße / Gutleutstr." spot="1" uid="122155"/>
+			<place lat="50.12012" lng="8.65038" name="Bockenheimer Warte / Café Extrablatt" spot="1" uid="7378"/>
+			<place lat="50.0915" lng="8.68589" name="Derag Hotel " number="21" spot="1" uid="67722"/>
+			<place lat="50.1173" lng="8.6788" name="Eschenheimer Tor U-Bahn" spot="1" uid="122156"/>
+			<place lat="50.11488" lng="8.67276" name="Fressgass / Neue Mainzer Str." number="4" spot="1" uid="1572"/>
+			<place lat="50.1231" lng="8.69294" name="Friedberger Platz / Café Harveys" number="10" spot="1" uid="1640"/>
+			<place lat="50.10909" lng="8.6718" name="Gallusanlage / Kaiserstr." spot="1" uid="122154"/>
+			<place lat="50.1074" lng="8.66436" name="Hauptbahnhof Vorplatz" number="1" spot="1" uid="121962"/>
+			<place lat="50.11384" lng="8.67962" name="Hauptwache / Sport Arena" number="5" spot="1" uid="896"/>
+			<place lat="50.12323" lng="8.70149" name="Höhenstraße / Berger Str." number="11" spot="1" uid="3364"/>
+			<place lat="50.11439" lng="8.68654" name="Konstabler Wache / Conrad-Elektronik" number="7" spot="1" uid="52745"/>
+			<place lat="50.10704" lng="8.67834" name="Lager" uid="39308"/>
+			<place lat="50.12276" lng="8.64527" name="Leipziger Str./ Markgrafenstr." number="4059" spot="1" uid="7644"/>
+			<place lat="50.12012" lng="8.69554" name="Merianplatz / Berger Str." number="9" spot="1" uid="7374"/>
+			<place lat="50.11206" lng="8.65408" name="Messe / Festhalle" number="2" spot="1" uid="42801"/>
+			<place lat="50.12894" lng="8.6925" name="Nibelungenplatz / Friedberger Landstr." spot="1" uid="121963"/>
+			<place lat="50.11535" lng="8.67117" name="Opernplatz / Bockenheimer Landstr." number="3" spot="1" uid="2612"/>
+			<place lat="50.11078" lng="8.68194" name="Römer / Touristeninformation" number="6" spot="1" uid="2304"/>
+			<place lat="50.11225" lng="8.67609" name="Roßmarkt / Junghofstr." spot="1" uid="122146"/>
+			<place lat="50.10541" lng="8.67783" name="Schaumainkai / Schweizer Str." spot="1" uid="7634"/>
+			<place lat="50.10183" lng="8.68115" name="Schweizer Platz / Diesterwegstr. *" spot="1" uid="7647"/>
+			<place lat="50.09964" lng="8.68519" name="Südbahnhof/Hedderichstr." spot="1" uid="46"/>
+			<place lat="50.10925" lng="8.67474" name="Willy-Brandt-Platz / Neue Mainzer Str.  " spot="1" uid="29169"/>
+			<place lat="50.11556" lng="8.69852" name="Zoo / Alfred-Brehm-Platz" number="8" spot="1" uid="7648"/>
+		</city>
+		<city lat="51.9049" lng="8.39275" name="Gütersloh" uid="160" zoom="14">
+			<place lat="51.90491" lng="8.39275" name="Berliner Straße - Karstadt" spot="1" uid="66546"/>
+			<place lat="51.90626" lng="8.3769" name="Gütersloh" spot="1" uid="65392"/>
+			<place lat="51.90641" lng="8.37894" name="Gütersloh- Rathaus- Berliner Str. 70" uid="83154"/>
+			<place lat="51.90728" lng="8.37328" name="Königstraße / Ecke Feldstraße" uid="68966"/>
+			<place lat="51.90774" lng="8.3824" name="Strengestraße" uid="87542"/>
+		</city>
+		<city lat="52.4986" lng="13.3001" name="Halensee KuDamm" uid="182" zoom="0">
+			<place lat="52.49903" lng="13.30361" name="Albrecht-Achilles-Str./KuDamm" number="5230" spot="1" uid="72238"/>
+			<place lat="52.50021" lng="13.30017" name="Damaschke-/Nestorstr. " number="5238" spot="1" uid="72564"/>
+			<place lat="52.49696" lng="13.29103" name="Henriettenplatz/KuDamm" number="5233" spot="1" uid="72228"/>
+			<place lat="52.49538" lng="13.29908" name="Hochmeisterplatz/Westfälische-/J.-Georg-Str." number="5235" spot="1" uid="72561"/>
+			<place lat="52.49816" lng="13.29595" name="Joachim-Friedrich-Str./KuDamm" number="5232" spot="1" uid="72229"/>
+			<place lat="52.49743" lng="13.29412" name="Johann-Sigismund-Str./KuDamm" number="5241" spot="1" uid="72560"/>
+			<place lat="52.50061" lng="13.2944" name="Karlsruher Str./Aspria  " number="5231" spot="1" uid="72263"/>
+			<place lat="52.49752" lng="13.29226" name="Katharinenstr./KuDamm" number="5240" spot="1" uid="72567"/>
+			<place lat="52.50172" lng="13.29627" name="Kracauerplatz/Damaschkestr." number="5239" spot="1" uid="72565"/>
+			<place lat="52.49889" lng="13.30004" name="Nestorstr./KuDamm" number="5234" spot="1" uid="72569"/>
+			<place lat="52.49619" lng="13.29569" name="Westfälische Str./Joachim-Friedrich-Str." number="5237" spot="1" uid="72562"/>
+		</city>
+		<city lat="53.5506" lng="9.99052" name="Hamburg" uid="43" zoom="13">
+			<place lat="53.57368" lng="10.00226" name="Alsterufer gegenüber Cliff Restaurant" spot="1" uid="55215"/>
+			<place lat="53.56745" lng="10.00107" name="Alsterufer/ Ecke Alte Rabenstraße" spot="1" uid="55206"/>
+			<place lat="53.5592" lng="9.9958" name="Alsterufer/Ecke Alsterterassen" spot="1" uid="55210"/>
+			<place lat="53.56323" lng="10.01555" name="An der Alster/ Schwanenwik Brücke" spot="1" uid="55219"/>
+			<place lat="53.56069" lng="9.9893" name="Bahnhof Dammtor/ Dag Hammarskjoeld Bruecke" spot="1" uid="1422"/>
+			<place lat="53.5555" lng="9.99994" name="Ballindamm Ecke Lombardsbrücke" spot="1" uid="44524"/>
+			<place lat="53.56156" lng="9.9902" name="Dammtor /  Rothenbaumchausee" spot="1" uid="28133"/>
+			<place lat="53.59054" lng="9.98702" name="Eppendorf Marie-Jonas-Platz" spot="1" uid="18404"/>
+			<place lat="53.552" lng="9.99397" name="Europa Passage / Reesendamm / Jungfernstieg" spot="1" uid="1418"/>
+			<place lat="53.58051" lng="10.00039" name="Fernsicht/ Ecke Agnesstraße" spot="1" uid="55217"/>
+			<place lat="53.5537" lng="10.0036" name="Glockengießerwall" spot="1" uid="4691"/>
+			<place lat="53.5401" lng="9.86203" name="Golden Tulip Finkenwerder" spot="1" uid="8246"/>
+			<place lat="53.54228" lng="9.99325" name="Hafen City Marco Polo Terassen" spot="1" uid="13715"/>
+			<place lat="53.54908" lng="9.97838" name="Haltestelle St. Michaelis Ludwig-Erhard-Straße" spot="1" uid="18411"/>
+			<place lat="53.55441" lng="10.00769" name="Hauptbahnhof / Kirchenallee" spot="1" uid="24434"/>
+			<place lat="53.55357" lng="10.00528" name="Hauptbahnhof Nord" spot="1" uid="69615"/>
+			<place lat="53.55224" lng="10.00835" name="Hauptbahnhof Süd" spot="1" uid="95334"/>
+			<place lat="53.54005" lng="9.86327" name="Hein Saß Weg 40 / Rilano Hotel" spot="1" uid="89835"/>
+			<place lat="53.55306" lng="9.99335" name="Jungfernstieg" spot="1" uid="13717"/>
+			<place lat="53.55777" lng="9.99788" name="Kennedybrücke" spot="1" uid="42495"/>
+			<place lat="53.57954" lng="9.99842" name="Krugkoppel/ Fernsicht Brücke" spot="1" uid="66310"/>
+			<place lat="53.54622" lng="9.97033" name="Landungsbrücken" spot="1" uid="69275"/>
+			<place lat="53.54603" lng="9.97279" name="Landungsbrücken- Eingang Hafentor" spot="1" uid="97629"/>
+			<place lat="53.58619" lng="9.93224" name="Mercure Arena - Kieler Straße 333" spot="1" uid="76971"/>
+			<place lat="53.54519" lng="10.01803" name="Mercure Hotel Amsinckstr. 53" spot="1" uid="67700"/>
+			<place lat="53.54839" lng="9.97974" name="Michaeliskirche" spot="1" uid="88948"/>
+			<place lat="53.54383" lng="9.9894" name="Miniaturwunderland / Hamburg Dungeon" spot="1" uid="97459"/>
+			<place lat="53.57072" lng="9.99477" name="Mittelweg Ecke Milchstraße" spot="1" uid="13713"/>
+			<place lat="53.55097" lng="10.00015" name="Mönckebergstraße" spot="1" uid="94631"/>
+			<place lat="53.55454" lng="9.99112" name="Neuer Jungfernstieg" spot="1" uid="1420"/>
+			<place lat="53.58186" lng="10.01142" name="Preystraße / Mühlenkamp " spot="1" uid="48334"/>
+			<place lat="53.55046" lng="9.99387" name="Rathaus" spot="1" uid="96028"/>
+			<place lat="53.54791" lng="9.94417" name="S-Bahnhof Königsstraße" spot="1" uid="99040"/>
+			<place lat="53.56499" lng="10.01661" name="Schwanenwik II" spot="1" uid="66311"/>
+			<place lat="53.54686" lng="9.97159" name="St. Pauli Jugendherberge Stintfang" spot="1" uid="14294"/>
+			<place lat="53.5728" lng="9.98893" name="U- Bahn Hallerstraße" spot="1" uid="4897"/>
+			<place lat="53.59452" lng="9.99563" name="U-Bahn Station Hudtwalckerstraße/ Bebelallee" spot="1" uid="19315"/>
+			<place lat="53.57238" lng="9.9899" name="U-Bahnhof Hallerstraße" spot="1" uid="26609"/>
+			<place lat="53.56412" lng="9.96906" name="U-Bahnhof Sternschanze" spot="1" uid="40688"/>
+		</city>
+		<city lat="52.3721" lng="9.73569" name="Hannover" uid="87" zoom="14">
+			<place lat="52.36884" lng="9.74308" name="Aegidientorplatz" spot="1" uid="22591"/>
+			<place lat="52.37728" lng="9.75325" name="Emmichplatz / Musikhochschule" spot="1" uid="22599"/>
+			<place lat="52.37567" lng="9.74" name="Hauptbahnhof / Ernst-August-Platz" spot="1" uid="41083"/>
+			<place lat="52.37873" lng="9.73049" name="Klagesmarkt" spot="1" uid="41738"/>
+			<place lat="52.37792" lng="9.72376" name="Königsworther Platz / Uni" spot="1" uid="41739"/>
+			<place lat="52.37461" lng="9.73812" name="Kröpcke" spot="1" uid="39212"/>
+			<place lat="52.37067" lng="9.73625" name="Markthalle / Köbelinger Markt" spot="1" uid="22590"/>
+			<place lat="52.36226" lng="9.73478" name="Marriott Hannover" spot="1" uid="122004"/>
+			<place lat="52.36341" lng="9.73902" name="Maschsee / Sprengelmuseum" spot="1" uid="22588"/>
+			<place lat="52.36769" lng="9.73748" name="Neues Rathaus" spot="1" uid="22582"/>
+			<place lat="52.37369" lng="9.7398" name="Opernplatz" spot="1" uid="22585"/>
+			<place lat="52.37256" lng="9.7377" name="Platz der Weltausstellung" spot="1" uid="22589"/>
+			<place lat="52.37964" lng="9.74111" name="Raschplatz / Kaufland" spot="1" uid="22587"/>
+			<place lat="52.37206" lng="9.78234" name="Scheidestr / Kleestr " spot="1" uid="122003"/>
+			<place lat="52.37574" lng="9.73308" name="Steintorplatz" spot="1" uid="22595"/>
+			<place lat="52.38217" lng="9.71772" name="Welfengarten / UNI" spot="1" uid="22593"/>
+			<place lat="52.38191" lng="9.76639" name="Zoo" spot="1" uid="22543"/>
+		</city>
+		<city lat="51.3402" lng="12.3722" name="Leipzig" uid="1" zoom="14">
+			<place lat="51.34963" lng="12.37605" name="arthotel/ Eutritzscher Str./ Ernst-Pinckert Strasse" number="4051" spot="1" uid="18268"/>
+			<place lat="51.33908" lng="12.38143" name="Augustusplatz / Oper" number="4003" spot="1" uid="72"/>
+			<place lat="51.33933" lng="12.37984" name="Augustusplatz Vapiano" number="4032" spot="1" uid="52806"/>
+			<place lat="51.33121" lng="12.3806" name="Bayrischer Platz (Nürnberger/Windmühlenstr.)" number="4027" spot="1" uid="10069"/>
+			<place lat="51.34051" lng="12.36881" name="Bosestr./ Gottschedstr./ Schauspielhaus" number="4013" spot="1" uid="28"/>
+			<place lat="51.34274" lng="12.37843" name="Brühl/ Nikolaistr./ Bagelbrothers" number="4036" spot="1" uid="172"/>
+			<place lat="51.3429" lng="12.37666" name="Brühl/Reichsstr. Brühl-Arkarden" number="4030" spot="1" uid="10784"/>
+			<place lat="51.33708" lng="12.37334" name="Burgplatz" number="4011" spot="1" uid="128"/>
+			<place lat="51.33964" lng="12.37103" name="Dittrichring/Gottschedstr." number="4040" spot="1" uid="10054"/>
+			<place lat="51.34602" lng="12.35694" name="Feuerbachstrasse" uid="45882"/>
+			<place lat="51.34108" lng="12.3674" name="Gottschedstr./ Käthe-Kollwitz-Str." number="4043" spot="1" uid="41466"/>
+			<place lat="51.34123" lng="12.36537" name="Gottschedstr./ Thomasiusstr." number="4018" spot="1" uid="8678"/>
+			<place lat="51.33211" lng="12.36752" name="Grassistr./ Beethovenstr." number="4021" spot="1" uid="2031"/>
+			<place lat="51.34286" lng="12.37281" name="Hainstr./Große Fleischergasse/Brühl" number="4037" spot="1" uid="9623"/>
+			<place lat="51.33925" lng="12.39573" name="Haltestelle Gerichtsweg " number="4044" spot="1" uid="41763"/>
+			<place lat="51.34382" lng="12.38147" name="Hauptbahnhof/ Osthalle" number="4042" spot="1" uid="32021"/>
+			<place lat="51.34405" lng="12.38325" name="Hauptbahnhof/ Ostseite" number="4067" spot="1" uid="32710"/>
+			<place lat="51.34402" lng="12.37939" name="Hauptbahnhof/ Unterführung" number="4019" spot="1" uid="8296"/>
+			<place lat="51.34458" lng="12.37963" name="Hauptbahnhof/ Westhalle" number="4046" spot="1" uid="32097"/>
+			<place lat="51.34572" lng="12.37915" name="Hauptbahnhof/ Westseite" number="4055" spot="1" uid="32663"/>
+			<place lat="51.34302" lng="12.3651" name="Jahnallee/ Thomasiusstr." number="4007" spot="1" uid="1615"/>
+			<place lat="51.33799" lng="12.38582" name="Johannisplatz Grassimuseum" number="4034" spot="1" uid="8308"/>
+			<place lat="51.33165" lng="12.33444" name="Karl Heine Str. Schaubühne Lindenfels " number="4041" spot="1" uid="42446"/>
+			<place lat="51.32093" lng="12.37337" name="Karl-Liebknecht-Str./ Kurt-Eisner-Str." number="4014" spot="1" uid="801"/>
+			<place lat="51.31501" lng="12.37312" name="Karl-Liebknecht-Str./Richard-Lehmann-Str./HTWK/ Subway" number="4020" spot="1" uid="10057"/>
+			<place lat="51.34242" lng="12.37513" name="Katharinenstr. Tourist Information / Bildermuseum" number="4053" spot="1" uid="66512"/>
+			<place lat="51.34189" lng="12.36906" name="Käthe-Kollwitz-Str./ Dittrichring" number="4038" spot="1" uid="11343"/>
+			<place lat="51.32902" lng="12.34667" name="Könneritzstr./ Anton-Bruckner-Allee" number="4010" spot="1" uid="9520"/>
+			<place lat="51.32398" lng="12.34386" name="Könneritzstr./ Industriestr./ Apotheke" number="4008" spot="1" uid="10882"/>
+			<place lat="51.31939" lng="12.34143" name="Könneritzstr./ Oeserstr." number="4026" spot="1" uid="26928"/>
+			<place lat="51.32056" lng="12.37863" name="Kurt-Eisner-Straße/Arthur-Hoffmann-Straße" number="4052" spot="1" uid="66551"/>
+			<place lat="51.33728" lng="12.33456" name="Lindenauer Markt" uid="122451"/>
+			<place lat="51.3452" lng="12.39217" name="Listhaus/ Friedrich-List-Platz" number="4057" spot="1" uid="46301"/>
+			<place lat="51.34262" lng="12.38458" name="LVB Mobilitätszentrale" number="4024" spot="1" uid="16337"/>
+			<place lat="51.33662" lng="12.37493" name="LVB Servicezentrum Peterstraße" number="4063" spot="1" uid="104022"/>
+			<place lat="51.33996" lng="12.37428" name="Marktplatz Breuninger" number="4045" spot="1" uid="52804"/>
+			<place lat="51.335" lng="12.38839" name="Mercure Hotel Stephanstr." number="4004" spot="1" uid="149"/>
+			<place lat="51.34904" lng="12.39382" name="missing island" uid="122442"/>
+			<place lat="51.34135" lng="12.37226" name="Mr. Moto Sushi Bar/ Kl. Fleischergasse/Gr. Fleischergasse" number="4056" spot="1" uid="17010"/>
+			<place lat="51.33285" lng="12.37348" name="Münzgasse/ Peterssteinweg" number="4023" spot="1" uid="10780"/>
+			<place lat="51.32552" lng="12.30709" name="nextbike Werkstatt Produktion Brünner Str. 24" number="4099" uid="21294"/>
+			<place lat="51.34063" lng="12.37814" name="Nikolaikirche" number="4009" spot="1" uid="8408"/>
+			<place lat="51.35317" lng="12.37338" name="Nordplatz/ Gohliser Str." number="4025" spot="1" uid="14311"/>
+			<place lat="51.33222" lng="12.39546" name="Ostplatz" number="4033" spot="1" uid="19780"/>
+			<place lat="51.3427" lng="12.38439" name="Pentahotel/ Großer Brockhaus " number="4031" spot="1" uid="17012"/>
+			<place lat="51.3278" lng="12.3885" name="Philipp-Rosenthal-Str./ Johannisallee" number="4048" spot="1" uid="15091"/>
+			<place lat="51.35616" lng="12.36434" name="Poetenweg Gohliser Schlösschen " number="4054" spot="1" uid="40712"/>
+			<place lat="51.35717" lng="12.36865" name="Poetenweg/ Gohliser Str." number="4022" spot="1" uid="40487"/>
+			<place lat="51.33987" lng="12.37683" name="Reichsstraße/Grimmaische Str./ Salamander" number="4050" spot="1" uid="72048"/>
+			<place lat="51.33585" lng="12.37889" name="Roßplatz/ Haltestelle Linie 16" number="4058" spot="1" uid="21223"/>
+			<place lat="51.34467" lng="12.37176" name="Stadtwerke Leipzig/ Goerdelerring" number="4015" spot="1" uid="8371"/>
+			<place lat="51.33848" lng="12.34188" name="Straßenbahnhof Angerbrücke" number="4001" spot="1" uid="43753"/>
+			<place lat="51.32466" lng="12.37344" name="Südplatz Karl-Liebknechtstr." number="4005" spot="1" uid="1727"/>
+			<place lat="51.33959" lng="12.37316" name="Thomaskirchhof" number="4006" spot="1" uid="125"/>
+			<place lat="51.33158" lng="12.3858" name="Uni Kliniken Haupteingang Liebigstraße" number="4069" spot="1" uid="21231"/>
+			<place lat="51.33959" lng="12.378" name="Universitätsstraße / Lehmanns Buchhandlung" number="4070" spot="1" uid="72046"/>
+			<place lat="51.34221" lng="12.35951" name="Waldplatz" number="4016" spot="1" uid="19094"/>
+			<place lat="51.34622" lng="12.35713" name="Waldstraße/ Feuerbachstraße" number="4039" spot="1" uid="66669"/>
+			<place lat="51.33891" lng="12.36293" name="Westplatz" number="4029" spot="1" uid="11373"/>
+			<place lat="51.3355" lng="12.37464" name="Wilhelm-Leuschner-Platz" number="4047" spot="1" uid="9889"/>
+			<place lat="51.33283" lng="12.37795" name="Windmühlenstr. Cafe Cantona" number="4065" spot="1" uid="21229"/>
+			<place lat="51.34833" lng="12.37128" name="Zoo" number="4035" spot="1" uid="8407"/>
+		</city>
+		<city lat="52.1268" lng="11.6342" name="Magdeburg" uid="42" zoom="14">
+			<place lat="52.12994" lng="11.63544" name="Allee Center/ Ecke Ulrichhaus" number="4215" spot="1" uid="59615"/>
+			<place lat="52.12737" lng="11.63406" name="Am Hundertwasserhaus (Breiter Weg 128)" number="4219" spot="1" uid="12097"/>
+			<place lat="52.13298" lng="11.63778" name="Am Ratswaagehotel (Ratswaageplatz 1-4)" number="4218" spot="1" uid="11800"/>
+			<place lat="52.13957" lng="11.6403" name="Campus Tower Universität Magdeburg (Universitätsplatz 1)" number="4207" spot="1" uid="33"/>
+			<place lat="52.12537" lng="11.63182" name="Domplatz (Breiter Weg)" number="4206" spot="1" uid="12878"/>
+			<place lat="52.13101" lng="11.63212" name="Eiscafe Palazzo (City-Carree)" number="4203" spot="1" uid="3935"/>
+			<place lat="52.12043" lng="11.62803" name="Hasselbachplatz (Liebig-Lounge)" number="4214" spot="1" uid="7537"/>
+			<place lat="52.13037" lng="11.62843" name="Hauptbahnhof Magdeburg (Vorplatz)" number="4209" spot="1" uid="7532"/>
+			<place lat="52.1295" lng="11.62801" name="Hotel - INTER City (am Hbf)" number="4221" spot="1" uid="12205"/>
+			<place lat="52.1441" lng="11.65325" name="Hotel - Sleep and go MD (Rogätzer Str. 5a)" number="4204" spot="1" uid="271"/>
+			<place lat="52.12829" lng="11.63183" name="Jugendherberge Magdeburg (Leiterstraße 10)" number="4202" spot="1" uid="1531"/>
+			<place lat="52.10711" lng="11.64378" name="Mückenwirt Biergarten (An der Elbe 14)" number="4208" spot="1" uid="7531"/>
+			<place lat="52.10891" lng="11.59743" name="Plaza Hotel Magdeburg" spot="1" uid="122558"/>
+			<place lat="52.13103" lng="11.63741" name="Tourist-Information Magdeburg (Ernst-Reuter-Allee 12)" number="4211" spot="1" uid="7536"/>
+			<place lat="52.13012" lng="11.63447" name="Ulrichplatz 4 / Couch-Potato" number="4210" spot="1" uid="40831"/>
+		</city>
+		<city lat="48.1392" lng="11.5791" name="München" uid="139" zoom="13">
+			<place lat="48.13104" lng="11.58251" name="Boschbrücke/Museumsinsel" spot="1" uid="122260"/>
+			<place lat="48.15256" lng="11.59206" name="Chinesischer Turm" number="4476" spot="1" uid="75867"/>
+			<place lat="48.13164" lng="11.58641" name="Deutsches Museum - Ludwigsbrücke" number="4477" spot="1" uid="75868"/>
+			<place lat="48.13013" lng="11.58323" name="Deutsches Museum / Innenhof" number="4483" spot="1" uid="77847"/>
+			<place lat="48.13186" lng="11.57565" name="Gärtnerplatz" number="4475" spot="1" uid="75865"/>
+			<place lat="48.15066" lng="11.58123" name="Geschwister-Scholl-Platz  " number="4452" spot="1" uid="44853"/>
+			<place lat="48.12974" lng="11.55849" name="Goetheplatz" number="4454" spot="1" uid="50517"/>
+			<place lat="48.13917" lng="11.55848" name="Hauptbahnhof  Bayerstr./Goethestr." number="4480" spot="1" uid="92749"/>
+			<place lat="48.14126" lng="11.55938" name="Hauptbahnhof Arnulfstr." number="4484" spot="1" uid="84997"/>
+			<place lat="48.14017" lng="11.5606" name="Hauptbahnhof Haupteingang" number="4482" spot="1" uid="95665"/>
+			<place lat="48.14258" lng="11.58171" name="Hofgarten" number="4471" spot="1" uid="75857"/>
+			<place lat="48.13504" lng="11.58196" name="Isartorplatz/Isartor" number="4470" spot="1" uid="75856"/>
+			<place lat="48.13982" lng="11.56531" name="Karlsplatz (Stachus) Hotel Königshof" number="4472" spot="1" uid="75861"/>
+			<place lat="48.13934" lng="11.56584" name="Karlsplatz (Stachus) U/S-Bahn" number="4469" spot="1" uid="75860"/>
+			<place lat="48.14643" lng="11.5638" name="Königsplatz" spot="1" uid="122262"/>
+			<place lat="48.14941" lng="11.58056" name="LMU - Uni / Ludwigstraße 27" spot="1" uid="44857"/>
+			<place lat="48.14206" lng="11.56195" name="Luisenstr./Elisenstr. Charles Hotel" number="4481" spot="1" uid="98427"/>
+			<place lat="48.13731" lng="11.57582" name="Marienplatz / Stadtinfo" number="4455" spot="1" uid="75775"/>
+			<place lat="48.13979" lng="11.57759" name="Max-Joseph-Platz" number="4457" spot="1" uid="75778"/>
+			<place lat="48.13579" lng="11.59801" name="Max-Weber-Platz" spot="1" uid="122269"/>
+			<place lat="48.13833" lng="11.58411" name="maximilianplatz" spot="1" uid="122261"/>
+			<place lat="48.14371" lng="11.5735" name="Maximiliansplatz/Briennerstrasse" number="4456" spot="1" uid="75777"/>
+			<place lat="48.16191" lng="11.58693" name="Münchner Freiheit/Herzogstraße" spot="1" uid="122264"/>
+			<place lat="48.14269" lng="11.57815" name="Odeonsplatz" number="4458" spot="1" uid="75808"/>
+			<place lat="48.14182" lng="11.57732" name="Odeonsplatz ecke Hofgartenstraße" number="4451" spot="1" uid="62762"/>
+			<place lat="48.13246" lng="11.57497" name="Pedalhelden Winterlager Corneliusstr." uid="118550"/>
+			<place lat="48.13306" lng="11.57432" name="Pedalhelden/Laden" number="4479" spot="1" uid="78592"/>
+			<place lat="48.14751" lng="11.57109" name="Pinakothek der Moderne" uid="122456"/>
+			<place lat="48.15048" lng="11.582" name="Prof. Huber - Platz / Uni / Veterinärstraße" number="4486" spot="1" uid="44858"/>
+			<place lat="48.13604" lng="11.57377" name="Rindermarkt/Rosenstraße" number="4461" spot="1" uid="75811"/>
+			<place lat="48.13915" lng="11.57574" name="Schrammerstr./Weinstr." number="4463" spot="1" uid="75820"/>
+			<place lat="48.13987" lng="11.56172" name="Schützenstr./ReweCity" number="4453" spot="1" uid="46331"/>
+			<place lat="48.13402" lng="11.56746" name="Sendlinger-Tor-Platz / Sendlinger Straße" number="4466" spot="1" uid="75848"/>
+			<place lat="48.1477" lng="11.55865" name="Stiglmaierplatz" number="4459" spot="1" uid="65681"/>
+			<place lat="48.13614" lng="11.57686" name="Viktualienmarkt an der Heilig Geist Kirche" number="4468" spot="1" uid="75855"/>
+			<place lat="48.13415" lng="11.59555" name="Wiener Platz" number="4478" spot="1" uid="75897"/>
+		</city>
+		<city lat="53.6782" lng="10.0044" name="Norderstedt" uid="177" zoom="12">
+			<place lat="53.68968" lng="9.99962" name="Arriba Erlebnisbad" number="4727" spot="1" uid="92292"/>
+			<place lat="53.68769" lng="10.03653" name="Glashütte Markt" number="4723" spot="1" uid="66576"/>
+			<place lat="53.70461" lng="10.00811" name="Harksheider Markt" number="4721" spot="1" uid="66552"/>
+			<place lat="53.68517" lng="9.98494" name="Herold Center" number="4724" spot="1" uid="66684"/>
+			<place lat="53.70711" lng="9.99201" name="Mitte ZOB" number="4722" spot="1" uid="66574"/>
+			<place lat="53.73416" lng="9.98946" name="Quickborner Str." number="4726" spot="1" uid="66682"/>
+			<place lat="53.71175" lng="10.01857" name="Stadtpark" number="4725" spot="1" uid="66681"/>
+		</city>
+		<city lat="50.1093" lng="8.73825" name="Offenbach am Main" uid="32" zoom="12">
+			<place lat="50.09952" lng="8.76065" name="Hauptbahnhof / Kaiserstr." spot="1" uid="137"/>
+			<place lat="50.1061" lng="8.76174" name="S- Bahn Marktplatz / Rathaus" spot="1" uid="8372"/>
+			<place lat="50.1053" lng="8.74001" name="S-Bahn Kaiserlei / Berliner Str." spot="1" uid="119"/>
+			<place lat="50.10574" lng="8.76329" name="S-Bahn Marktplatz / Berliner Str." spot="1" uid="42784"/>
+		</city>
+		<city lat="48.468" lng="7.94239" name="Offenburg" uid="155" zoom="14">
+			<place lat="48.4752" lng="7.94728" name="Bahnhof-Osteingang" number="4902" spot="1" uid="52513"/>
+			<place lat="48.47548" lng="7.94522" name="Bahnhof/ZOB" number="4901" spot="1" uid="52511"/>
+			<place lat="48.47052" lng="7.94773" name="BürgerBüroBauen/Tech.Rathaus" number="4907" spot="1" uid="52518"/>
+			<place lat="48.47179" lng="7.93988" name="City Parkhaus" number="4905" spot="1" uid="52516"/>
+			<place lat="48.48074" lng="7.95752" name="EDEKA/Sparkasse" number="4911" spot="1" uid="52522"/>
+			<place lat="48.47212" lng="7.94382" name="Gustav-Rée-Anlage" number="4903" spot="1" uid="52514"/>
+			<place lat="48.46801" lng="7.94238" name="Im Lager zur Reparatur" uid="95530"/>
+			<place lat="48.46797" lng="7.95485" name="Kulturforum" number="4908" spot="1" uid="52519"/>
+			<place lat="48.46525" lng="7.93934" name="Landratsamt/Medienpark" number="4906" spot="1" uid="52517"/>
+			<place lat="48.46493" lng="7.93244" name="Messe" number="4912" spot="1" uid="52523"/>
+			<place lat="48.47688" lng="7.95464" name="Ortenau Klinikum" number="4910" spot="1" uid="52521"/>
+			<place lat="48.47349" lng="7.95011" name="Schillerplatz" number="4909" spot="1" uid="52520"/>
+			<place lat="48.46864" lng="7.94269" name="Stadtbuckel" number="4904" spot="1" uid="52515"/>
+			<place lat="48.47981" lng="7.94178" name="Zentrum Nordweststadt" number="4913" spot="1" uid="52525"/>
+		</city>
+		<city lat="52.3997" lng="13.0676" name="Potsdam" uid="158" zoom="13">
+			<place lat="52.41156" lng="13.02567" name="Am krongut" uid="99212"/>
+			<place lat="52.39289" lng="13.03661" name="Bahnhof Charlottenhof" number="5203" spot="1" uid="57733"/>
+			<place lat="52.40901" lng="12.97243" name="Bahnhof Golm" number="5201" spot="1" uid="57730"/>
+			<place lat="52.39398" lng="13.12901" name="Bahnhof Griebnitzsee" number="5221" spot="1" uid="57763"/>
+			<place lat="52.39982" lng="13.05187" name="Brandenburger Str./ Lindenstr." number="5209" spot="1" uid="57748"/>
+			<place lat="52.3992" lng="13.05295" name="Dortusstr./ Charlottenstraße" number="5210" spot="1" uid="57749"/>
+			<place lat="52.39524" lng="13.05844" name="Filmmuseum" number="5215" spot="1" uid="57754"/>
+			<place lat="52.39288" lng="13.06601" name="Hauptbahnhof Nord" number="5211" spot="1" uid="57750"/>
+			<place lat="52.39093" lng="13.06712" name="Hauptbahnhof Süd/ Taxistand" number="5217" spot="1" uid="57756"/>
+			<place lat="52.38833" lng="13.11761" name="Hochschule für Film und Fernsehen" number="5223" spot="1" uid="98428"/>
+			<place lat="52.40212" lng="13.05242" name="Jägertor/ Lindenstraße" number="5208" spot="1" uid="57747"/>
+			<place lat="52.41384" lng="13.03257" name="Kirschallee/Pappelallee" number="5204" spot="1" uid="57734"/>
+			<place lat="52.38917" lng="13.09995" name="Kopernikusstraße" number="5219" spot="1" uid="57759"/>
+			<place lat="52.39888" lng="13.04758" name="Luisenplatz Süd/ Sparkasse" number="5207" spot="1" uid="57744"/>
+			<place lat="52.40182" lng="13.01094" name="Neues Palais/ Universität" number="5202" spot="1" uid="57731"/>
+			<place lat="52.39429" lng="13.10246" name="Plantagenplatz" number="5220" spot="1" uid="57762"/>
+			<place lat="52.3992" lng="13.05798" name="Platz der Einheit" number="5214" spot="1" uid="57753"/>
+			<place lat="52.39225" lng="13.09172" name="Rathaus Babelsberg" number="5218" spot="1" uid="57758"/>
+			<place lat="52.40381" lng="13.07515" name="Schiffbauergasse" number="5216" spot="1" uid="57755"/>
+			<place lat="52.40575" lng="13.05813" name="Stadthaus Potsdam" number="5212" spot="1" uid="57751"/>
+			<place lat="52.41586" lng="13.04121" name="Volkspark Süd" number="5205" spot="1" uid="57741"/>
+			<place lat="52.36602" lng="13.09359" name="Waldstadt/Heinrich-Mann-Allee" number="5213" spot="1" uid="57752"/>
+			<place lat="52.39486" lng="13.07644" name="Zentrum Ost/Humboldtring" number="5222" spot="1" uid="98430"/>
+			<place lat="52.39689" lng="13.04363" name="Zeppelinstr./ Breite Str." number="5206" spot="1" uid="57743"/>
+		</city>
+		<city lat="48.5203" lng="9.05591" name="Tübingen" uid="101" zoom="14">
+			<place lat="48.5235" lng="9.0518" name="Nr. 4 / Schnarrenbergstraße / Parkhaus König" number="4804" spot="1" uid="27506"/>
+			<place lat="48.52063" lng="9.04974" name="Nr. 8/ Haagtorplatz " number="4808" spot="1" uid="28185"/>
+			<place lat="48.51859" lng="9.05808" name="Nr.1 / Eberhardsbrücke / Tourismusinformation" number="4801" spot="1" uid="27497"/>
+			<place lat="48.51702" lng="9.05694" name="Nr.2 / Europaplatz / Hauptbahnhof" number="4802" spot="1" uid="27498"/>
+			<place lat="48.52145" lng="9.05777" name="Nr.3 / Österbergstraße / Lustnauertor" number="4803" spot="1" uid="28183"/>
+			<place lat="48.52522" lng="9.05962" name="Nr.5 / Nauklerstraße / Universität" number="4805" spot="1" uid="27508"/>
+			<place lat="48.52434" lng="9.05851" name="Nr.6/ Silcherstraße / Universität / Alter Botanischer Garten" number="4806" spot="1" uid="27507"/>
+			<place lat="48.52231" lng="9.05603" name="Nr.7/ Nonnengasse " number="4807" spot="1" uid="28182"/>
+			<place lat="48.51098" lng="9.03548" name="Nr.9/Rappenberghalde / Campingplatz" number="4809" spot="1" uid="28192"/>
+		</city>
+	</country>
+	<country domain="nz" hotline="+6499099090" lat="-39.0789" lng="175.649" name="nextbike New Zealand" zoom="6">
+		<city lat="-36.8603" lng="174.763" name="Auckland" uid="34" zoom="13">
+			<place lat="-36.86166" lng="174.7619" name="132 Symonds st (TWB Shop)" spot="1" uid="102340"/>
+			<place lat="-36.8513" lng="174.75999" name="157 Hobson st (AC Hotel)" spot="1" uid="1414"/>
+		</city>
+	</country>
+	<country domain="la" hotline="+432742229901" lat="47.621" lng="13.3813" name="LEIHRADL nextbike Austria" zoom="6">
+		<city lat="48.3462" lng="16.2735" name="10 vor Wien" uid="174" zoom="11">
+			<place lat="48.33317" lng="16.40985" name="Hagenbrunn / Gemeindezentrum" number="3557" spot="1" uid="121170"/>
+			<place lat="48.3099" lng="16.32625" name="Klosterneuburg / Kierling / Bahnhof" number="3207" spot="1" uid="47461"/>
+			<place lat="48.29766" lng="16.33438" name="Klosterneuburg / Weidling / Bahnhof" number="3208" spot="1" uid="47462"/>
+			<place lat="48.34722" lng="16.33472" name="Korneuburg / Bahnhof" number="3209" spot="1" uid="47463"/>
+			<place lat="48.34648" lng="16.33255" name="Korneuburg / BH Korneuburg" number="3541" spot="1" uid="70248"/>
+			<place lat="48.34139" lng="16.32083" name="Korneuburg / Grisu Werft" number="3552" spot="1" uid="70250"/>
+			<place lat="48.34437" lng="16.3329" name="Korneuburg / Hauptplatz" number="3542" spot="1" uid="70249"/>
+			<place lat="48.30722" lng="16.35556" name="Langenzersdorf / Bahnhof" number="3540" spot="1" uid="70247"/>
+			<place lat="48.36472" lng="16.30167" name="Leobendorf / Bahnhof" number="3211" spot="1" uid="47465"/>
+			<place lat="48.37722" lng="16.32222" name="Leobendorf / Zentrum" number="3547" spot="1" uid="70255"/>
+			<place lat="48.37611" lng="16.25639" name="Spillern / Bahnhof" number="3549" spot="1" uid="70257"/>
+			<place lat="48.37444" lng="16.27167" name="Spillern / Jugendtreff" number="3550" spot="1" uid="70258"/>
+			<place lat="48.33361" lng="16.20917" name="St. Andrä Wördern / Bahnhof" number="3216" spot="1" uid="70344"/>
+			<place lat="48.34495" lng="16.24037" name="St. Andrä Wördern / BHF Greifenstein - Altenberg" number="3556" spot="1" uid="121169"/>
+			<place lat="48.28778" lng="16.1925" name="St. Andrä Wördern / Marienhof" number="3551" spot="1" uid="70259"/>
+			<place lat="48.29769" lng="16.42014" name="Stammersdorf / Bahnhofsplatz Erlebnisstop 2" number="3558" spot="1" uid="121171"/>
+			<place lat="48.36694" lng="16.35861" name="Stetten / Fossilienwelt Stetten" number="3548" spot="1" uid="70256"/>
+			<place lat="48.38279" lng="16.21266" name="Stockerau / Bahnhof" number="3218" spot="1" uid="47472"/>
+			<place lat="48.39417" lng="16.21889" name="Stockerau / Erholungszentrum" number="3545" spot="1" uid="70253"/>
+			<place lat="48.37444" lng="16.2375" name="Stockerau / Kaiserrast" number="3546" spot="1" uid="70254"/>
+			<place lat="48.38417" lng="16.20694" name="Stockerau / Rathausplatz" number="3544" spot="1" uid="70252"/>
+		</city>
+		<city lat="47.3751" lng="9.93301" name="Bregenzerwald" uid="71" zoom="11">
+			<place lat="47.41229" lng="9.89491" name=" Andelsbuch / Gemeindeamt" number="3411" spot="1" uid="48856"/>
+			<place lat="47.42019" lng="9.90658" name="Andelsbuch / Bergbahn" number="3412" spot="1" uid="48857"/>
+			<place lat="47.32199" lng="9.98046" name="Au / Gemeindeamt" number="3401" spot="1" uid="13650"/>
+			<place lat="47.39603" lng="9.86641" name="Bersbuch / Wälderbahn" number="3413" spot="1" uid="48858"/>
+			<place lat="47.38124" lng="9.89787" name="Bezau / Bahnhof" number="3402" spot="1" uid="13660"/>
+			<place lat="47.38354" lng="9.90205" name="Bezau Hauptschule / Platz 138" number="3403" spot="1" uid="13661"/>
+			<place lat="47.36907" lng="9.92848" name="Bizau / Kirche" number="3404" spot="1" uid="13658"/>
+			<place lat="47.43077" lng="9.89725" name="Egg / Cafe Ampuls" number="3405" spot="1" uid="13662"/>
+			<place lat="47.46046" lng="9.96026" name="Lager" uid="120182"/>
+			<place lat="47.35051" lng="9.88176" name="Mellau / Gemeindeamt" number="3406" spot="1" uid="13659"/>
+			<place lat="47.32259" lng="9.99851" name="Rehmen / Kirche " number="3407" spot="1" uid="13652"/>
+			<place lat="47.352" lng="9.94529" name="Schnepfau / Gemeindesaal" number="3408" spot="1" uid="13654"/>
+			<place lat="47.31241" lng="10.0159" name="Schoppernau / Gemeindeamt" number="3409" spot="1" uid="13648"/>
+			<place lat="47.31637" lng="10.00914" name="Schoppernau Talstation / Diedamskopf" number="3410" spot="1" uid="13649"/>
+		</city>
+		<city lat="48.0643" lng="14.7368" name="Haag" uid="167" zoom="10">
+			<place lat="48.10889" lng="14.57833" name="Haag / Freizeitzentrum" number="3081" spot="1" uid="65787"/>
+			<place lat="48.0945" lng="14.58937" name="Haag / Haltestelle Haag" number="3082" spot="1" uid="65788"/>
+			<place lat="48.10194" lng="14.55806" name="Haag / Tierpark" number="3080" spot="1" uid="65786"/>
+		</city>
+		<city lat="48.4183" lng="15.6909" name="Krems Ost" uid="164" zoom="12">
+			<place lat="48.42972" lng="15.75" name="Grafenegg / Schloß Grafenegg" number="3066" spot="1" uid="65769"/>
+			<place lat="48.41861" lng="15.65472" name="Rohrendorf / Weinlandhalle" number="3064" spot="1" uid="65767"/>
+		</city>
+		<city lat="48.7196" lng="16.3878" name="Laa an der Thaya" uid="184" zoom="13">
+			<place lat="48.71545" lng="16.39276" name="Laa / Bahnhof" number="3553" spot="1" uid="90401"/>
+			<place lat="48.7213" lng="16.38629" name="Laa / Stadtplatz - Rathaus" number="3554" spot="1" uid="90402"/>
+		</city>
+		<city lat="48.2741" lng="16.7116" name="Marchfeld" uid="170" zoom="10">
+			<place lat="48.38408" lng="16.82612" name="Angern a.d. March / Bahnhof" number="3534" spot="1" uid="65802"/>
+			<place lat="48.37835" lng="16.82657" name="Angern a.d. March / Wienerstraße" number="3533" spot="1" uid="65801"/>
+			<place lat="48.30285" lng="16.56478" name="Deutsch Wagram / Bahnhof" number="3530" spot="1" uid="65798"/>
+			<place lat="48.31038" lng="16.59679" name="Deutsch Wagram / Hst. Helmahof" number="3529" spot="1" uid="65797"/>
+			<place lat="48.14613" lng="16.88146" name="Engelhartstetten / Forsthaus Stopfenreuth" number="3539" spot="1" uid="65748"/>
+			<place lat="48.21583" lng="16.935" name="Engelhartstetten / Schloß Hof" number="3538" spot="1" uid="65806"/>
+			<place lat="48.33972" lng="16.73167" name="Gänserndorf / Bahnhof" number="3204" spot="1" uid="47458"/>
+			<place lat="48.33994" lng="16.71708" name="Gänserndorf / Rathaus" number="3531" spot="1" uid="65799"/>
+			<place lat="48.24917" lng="16.91917" name="Marchegg / Bahnhof" number="3537" spot="1" uid="65805"/>
+			<place lat="48.28" lng="16.90722" name="Marchegg / Hauptplatz" number="3535" spot="1" uid="65803"/>
+			<place lat="48.25444" lng="16.8775" name="Marchegg / Hst. Breitensee" number="3536" spot="1" uid="65804"/>
+			<place lat="48.34444" lng="16.76639" name="Weikendorf / Rathaus" number="3532" spot="1" uid="65800"/>
+		</city>
+		<city lat="48.5674" lng="16.5722" name="Mistelbach" uid="169" zoom="14">
+			<place lat="48.56605" lng="16.56554" name="Mistelbach / Bahnhof" number="3528" spot="1" uid="65796"/>
+			<place lat="48.57111" lng="16.56914" name="Mistelbach / Hst. Mistelbach Stadt" number="3526" spot="1" uid="65794"/>
+			<place lat="48.56306" lng="16.57639" name="Mistelbach / Weinlandbad" number="3527" spot="1" uid="65795"/>
+		</city>
+		<city lat="48.1047" lng="16.3202" name="Mödling" uid="64" zoom="12">
+			<place lat="48.08193" lng="16.34607" name="Biedermannsdorf / Jubiläumshalle" number="317022" spot="1" uid="9192"/>
+			<place lat="48.08255" lng="16.35233" name="Biedermannsdorf / Laxenburgerstraße /Ortstraße" number="317021" spot="1" uid="11184"/>
+			<place lat="48.10494" lng="16.28805" name="Brunn / Bahnhof" number="317042" spot="1" uid="9172"/>
+			<place lat="48.11437" lng="16.2947" name="Brunn / campus21" number="317044" spot="1" uid="7953"/>
+			<place lat="48.10285" lng="16.29736" name="Brunn / Freizeitanlage Stierwiese" number="317043" spot="1" uid="7952"/>
+			<place lat="48.08099" lng="16.2359" name="Hinterbrühl / Haltestelle Höldrichsmühle" number="3159" spot="1" uid="121182"/>
+			<place lat="48.08459" lng="16.24114" name="Hinterbrühl / Haltestelle Weintraube" number="3160" spot="1" uid="121183"/>
+			<place lat="48.06757" lng="16.35497" name="Laxenburg / Franz-Josephs-Platz" number="317151" spot="1" uid="7515"/>
+			<place lat="48.064" lng="16.35315" name="Laxenburg / Parapluiewiese" number="317153" spot="1" uid="7956"/>
+			<place lat="48.0648" lng="16.35847" name="Laxenburg / Schlosspark Haupteingang" number="317152" spot="1" uid="7957"/>
+			<place lat="48.1345" lng="16.2838" name="Liesing / Bahnhof" number="3140" spot="1" uid="66248"/>
+			<place lat="48.10113" lng="16.2841" name="Ma. Enzersdorf / Franziskanerplatz" number="317163" spot="1" uid="7960"/>
+			<place lat="48.09373" lng="16.28543" name="Ma. Enzersdorf / Friedhof" number="317164" spot="1" uid="7961"/>
+			<place lat="48.09895" lng="16.28487" name="Ma. Enzersdorf / Gemeindeamt" number="317161" spot="1" uid="7963"/>
+			<place lat="48.09654" lng="16.31384" name="Ma. Enzersdorf / HST" number="317162" spot="1" uid="7418"/>
+			<place lat="48.09516" lng="16.30478" name="Ma. Enzersdorf / Theissplatz" number="317165" spot="1" uid="7962"/>
+			<place lat="48.08568" lng="16.28594" name="Moedling / Babenbergerhof" number="317177" spot="1" uid="7947"/>
+			<place lat="48.08573" lng="16.29551" name="Moedling / Bahnhof" number="317172" spot="1" uid="7443"/>
+			<place lat="48.08473" lng="16.29607" name="Moedling / Bike+Ride (Bach)" number="317173" spot="1" uid="7946"/>
+			<place lat="48.0863" lng="16.28787" name="Moedling / Josef-Deutsch-Platz " number="317175" spot="1" uid="92822"/>
+			<place lat="48.08863" lng="16.29704" name="Moedling / Landesklinikum" number="317174" spot="1" uid="7948"/>
+			<place lat="48.08542" lng="16.28341" name="Moedling / Schrannenplatz" number="317171" spot="1" uid="7951"/>
+			<place lat="48.08192" lng="16.28727" name="Moedling / Stadtbad" number="317176" spot="1" uid="7949"/>
+			<place lat="48.07111" lng="16.30278" name="Moedling / WIFI" number="3142" spot="1" uid="66285"/>
+			<place lat="48.12326" lng="16.28527" name="Perchtoldsdorf / Bahnhof" number="3119" spot="1" uid="45252"/>
+			<place lat="48.12383" lng="16.2667" name="Perchtoldsdorf / Freizeitzentrum" number="3118" spot="1" uid="45251"/>
+			<place lat="48.12239" lng="16.26578" name="Perchtoldsdorf / Kulturzentrum" number="3158" spot="1" uid="121207"/>
+			<place lat="48.11824" lng="16.26591" name="Perchtoldsdorf / Marktplatz" number="3120" spot="1" uid="45253"/>
+			<place lat="48.13229" lng="16.26336" name="Perchtoldsdorf / Rodaun" number="3117" spot="1" uid="45250"/>
+			<place lat="48.12138" lng="16.34118" name="Voesendorf / Schloss" number="317231" spot="1" uid="7966"/>
+			<place lat="48.13522" lng="16.32508" name="Voesendorf / Schoenbrunner Allee" number="317233" spot="1" uid="7431"/>
+			<place lat="48.12548" lng="16.31968" name="Voesendorf / Siebenhirten HST" number="317232" spot="1" uid="7433"/>
+			<place lat="48.11429" lng="16.35425" name="Vösendorf / Spitz" number="3141" spot="1" uid="65751"/>
+			<place lat="48.0843" lng="16.32405" name="Wiener Neudorf / C.-Migazzi-Haus" number="317254" spot="1" uid="7968"/>
+			<place lat="48.0735" lng="16.31564" name="Wiener Neudorf / ecocenter" number="317256" spot="1" uid="7432"/>
+			<place lat="48.08725" lng="16.31401" name="Wiener Neudorf / HST" number="317252" spot="1" uid="7434"/>
+			<place lat="48.07762" lng="16.31242" name="Wiener Neudorf / HST Griesfeld" number="317253" spot="1" uid="7430"/>
+			<place lat="48.08671" lng="16.31804" name="Wiener Neudorf / Rathaus" number="317251" spot="1" uid="7967"/>
+			<place lat="48.08937" lng="16.31049" name="Wiener Neudorf / Reisenbauer Ring" number="317255" spot="1" uid="7969"/>
+		</city>
+		<city lat="47.7227" lng="16.0804" name="Neunkirchen" uid="163" zoom="13">
+			<place lat="47.6775" lng="15.94778" name="Gloggnitz / Bahnhof" number="3225" spot="1" uid="65808"/>
+			<place lat="47.67472" lng="15.93556" name="Gloggnitz / Stadtamt" number="3153" spot="1" uid="65766"/>
+			<place lat="47.73155" lng="16.08574" name="Neunkirchen / Bahnhof" number="3213" spot="1" uid="47467"/>
+			<place lat="47.72139" lng="16.07278" name="Neunkirchen / Erholungszentrum" number="3152" spot="1" uid="65765"/>
+			<place lat="47.72056" lng="16.08083" name="Neunkirchen / Hauptplatz" number="3151" spot="1" uid="65764"/>
+		</city>
+		<city lat="47.839" lng="16.761" name="Neusiedler See" uid="23" zoom="10">
+			<place lat="47.77631" lng="17.03344" name="Andau / Badesee" number="3336" spot="1" uid="65391"/>
+			<place lat="47.94134" lng="16.74626" name="Breitenbrunn / Bhf" number="3310" spot="1" uid="568"/>
+			<place lat="47.94564" lng="16.73293" name="Breitenbrunn / Hauptplatz " number="3312" spot="1" uid="11322"/>
+			<place lat="47.91686" lng="16.76451" name="Breitenbrunn / Seebad" number="3311" spot="1" uid="11323"/>
+			<place lat="47.8887" lng="16.66034" name="Eisenstadt / Bahnhof" number="3301" spot="1" uid="3401"/>
+			<place lat="47.84565" lng="16.52517" name="Eisenstadt / Domplatz" number="3302" spot="1" uid="3403"/>
+			<place lat="47.82863" lng="16.53623" name="Eisenstadt / Fachhochschule" number="3303" spot="1" uid="781"/>
+			<place lat="47.84552" lng="16.53251" name="Eisenstadt / Krautgartenweg" number="3327" spot="1" uid="44608"/>
+			<place lat="47.84568" lng="16.51915" name="Eisenstadt / Schloss" number="3304" spot="1" uid="584"/>
+			<place lat="47.71623" lng="16.68549" name="Fertörakos / Drescher Line" number="3307" spot="1" uid="1431"/>
+			<place lat="47.84038" lng="16.91652" name="Frauenkirchen / Bahnhof" number="3324" spot="1" uid="42371"/>
+			<place lat="47.83563" lng="16.92826" name="Frauenkirchen / Basilika" number="3323" spot="1" uid="42370"/>
+			<place lat="47.82145" lng="16.91208" name="Frauenkirchen/Therme St. Martin" number="3322" spot="1" uid="40201"/>
+			<place lat="47.89701" lng="16.90676" name="Gols / Weinkulturhaus" number="3325" spot="1" uid="40236"/>
+			<place lat="47.76712" lng="16.80387" name="Illmitz / Heuriger Gruber" number="3318" spot="1" uid="1452"/>
+			<place lat="47.76156" lng="16.80563" name="Illmitz / Hotel Tauber Apetloner Str." number="3319" spot="1" uid="1451"/>
+			<place lat="47.77101" lng="16.8016" name="Illmitz / Nationalparkzentrum" number="3334" spot="1" uid="65314"/>
+			<place lat="47.75433" lng="16.74196" name="Illmitz / Seebad" number="3320" spot="1" uid="19304"/>
+			<place lat="47.95976" lng="16.79254" name="Jois / Gemeindamt" number="3328" spot="1" uid="51097"/>
+			<place lat="47.94153" lng="16.79775" name="Jois / Hafen / Seejungfrau" number="3329" spot="1" uid="51098"/>
+			<place lat="47.75462" lng="16.69724" name="Mörbisch / Bootsverleih Drescher" number="3306" spot="1" uid="572"/>
+			<place lat="47.94225" lng="16.8465" name="Neusiedl / Bahnhof Bad" number="3313" spot="1" uid="522"/>
+			<place lat="47.95154" lng="16.83618" name="Neusiedl / Bezirkshauptmannschaft" number="3316" spot="1" uid="6245"/>
+			<place lat="47.92874" lng="16.83494" name="Neusiedl / Mole West" number="3314" spot="1" uid="556"/>
+			<place lat="47.94571" lng="16.84793" name="Neusiedl / Post" number="3315" spot="1" uid="744"/>
+			<place lat="47.70407" lng="16.90345" name="Pamhagen / Bhf" number="3332" spot="1" uid="65313"/>
+			<place lat="47.85957" lng="16.83141" name="Podersdorf am See / Platz der Radchampions" number="3317" spot="1" uid="1450"/>
+			<place lat="47.90866" lng="16.7054" name="Purbach / Bad im Erholungsgebiet" number="3309" spot="1" uid="11321"/>
+			<place lat="47.9062" lng="16.6983" name="Purbach / Bhf" number="3308" spot="1" uid="94"/>
+			<place lat="47.80116" lng="16.676" name="Rust / ELFENHOF-SCHENKE" number="3338" spot="1" uid="65574"/>
+			<place lat="47.79782" lng="16.67356" name="Rust / Hotel am Greiner" number="3305" spot="1" uid="592"/>
+			<place lat="47.80067" lng="16.66682" name="Rust / Weingut ELFENHOF" number="3337" spot="1" uid="65573"/>
+			<place lat="47.78266" lng="16.92818" name="St Andrä / Bhf" number="3321" spot="1" uid="202"/>
+			<place lat="47.78917" lng="16.91877" name="St. Andrä / Zicksee" number="3339" spot="1" uid="65720"/>
+			<place lat="47.76506" lng="16.98452" name="Tadten / Gemeindeamt" number="3335" spot="1" uid="65390"/>
+			<place lat="47.73341" lng="16.93043" name="Wallern / Bhf" number="3331" spot="1" uid="65312"/>
+			<place lat="47.92575" lng="16.86395" name="Weiden / Bhf" number="3330" spot="1" uid="65311"/>
+		</city>
+		<city lat="48.0193" lng="16.3092" name="ÖBB-Bahnhöfe" uid="150" zoom="8">
+			<place lat="48.40181" lng="15.98585" name="Absdorf / Hippersdorf / Bahnhof" number="3200" spot="1" uid="47454"/>
+			<place lat="48.12175" lng="14.8774" name="Amstetten / Bahnhof" number="3201" spot="1" uid="47455"/>
+			<place lat="47.88742" lng="16.24794" name="Felixdorf / Bahnhof" number="3203" spot="1" uid="47457"/>
+			<place lat="48.42917" lng="15.82306" name="Fels am Wagram / Bahnhof" number="3202" spot="1" uid="47456"/>
+			<place lat="48.76444" lng="14.98417" name="Gmünd / Bahnhof" number="3226" spot="1" uid="65809"/>
+			<place lat="48.44639" lng="15.71389" name="Hadersdorf am Kamp / Bahnhof" number="3205" spot="1" uid="47459"/>
+			<place lat="48.56301" lng="16.07306" name="Hollabrunn / Bahnhof" number="3228" spot="1" uid="65810"/>
+			<place lat="48.42778" lng="15.89389" name="Kirchberg am Wagram / Bahnhof" number="3206" spot="1" uid="47460"/>
+			<place lat="48.3275" lng="16.12194" name="Langenlebarn / Bahnhof" number="3210" spot="1" uid="47464"/>
+			<place lat="48.75333" lng="15.95639" name="Retz / Bahnhof" number="3229" spot="1" uid="65811"/>
+			<place lat="48.14278" lng="16.48194" name="Schwechat / Bahnhof" number="3215" spot="1" uid="47469"/>
+			<place lat="48.17833" lng="14.52056" name="St. Valentin / Bahnhof" number="3217" spot="1" uid="47471"/>
+			<place lat="47.71382" lng="16.03334" name="Ternitz / Bahnhof" number="3219" spot="1" uid="47473"/>
+			<place lat="48.07491" lng="14.81601" name="Ulmerfeld / Hausmening / Bahnhof" number="3221" spot="1" uid="47475"/>
+			<place lat="47.96805" lng="14.76595" name="Waidhofen / Ybbs / Bahnhof" number="3230" spot="1" uid="66251"/>
+			<place lat="48.37936" lng="16.5126" name="Wolkersdorf / Bahnhof" number="3223" spot="1" uid="47477"/>
+		</city>
+		<city lat="47.8592" lng="14.9634" name="Oberes Ybbstal" uid="181" zoom="9">
+			<place lat="47.80769" lng="14.9337" name="Göstling / Rathaus" number="3084" spot="1" uid="72201"/>
+			<place lat="47.78333" lng="14.76556" name="Hollenstein / FS - Unterleiten" number="3083" spot="1" uid="72200"/>
+			<place lat="47.85972" lng="15.02472" name="Lunz am See / Amonhaus / Gemeindeamt" number="3085" spot="1" uid="72202"/>
+			<place lat="47.85222" lng="15.04" name="Lunz am See / Bootsvermietung Seepromenade" number="3087" spot="1" uid="72371"/>
+			<place lat="47.85528" lng="15.06694" name="Lunz am See / Seehof / Parkplatz" number="3086" spot="1" uid="72203"/>
+		</city>
+		<city lat="47.8841" lng="15.9467" name="Piestingtal" uid="168" zoom="10">
+			<place lat="47.87672" lng="15.89104" name="Gutenstein / Bahnhof" number="3149" spot="1" uid="65793"/>
+			<place lat="47.87611" lng="15.88972" name="Gutenstein / Hauptplatz" number="3148" spot="1" uid="65792"/>
+			<place lat="47.87446" lng="16.12425" name="Markt Piesting / Bahnhof" number="3146" spot="1" uid="65790"/>
+			<place lat="47.86938" lng="16.13086" name="Markt Piesting / Waldbad" number="3145" spot="1" uid="65789"/>
+			<place lat="47.89582" lng="15.95791" name="Pernitz / Muggendorf / Bahnhof" number="3147" spot="1" uid="65791"/>
+		</city>
+		<city lat="48.0909" lng="16.853" name="Römerland" uid="149" zoom="10">
+			<place lat="48.13279" lng="16.91042" name="Bad Deutschaltenburg / Bahnhof" number="3516" spot="1" uid="46616"/>
+			<place lat="48.13983" lng="16.90313" name="Bad Deutschaltenburg / Museum Carnuntinum" number="3517" spot="1" uid="46617"/>
+			<place lat="48.10356" lng="17.0394" name="Berg / Gemeindeamt" number="3524" spot="1" uid="46624"/>
+			<place lat="48.01941" lng="16.77879" name="Bruck an der Leitha / Bahnhof" number="3508" spot="1" uid="46608"/>
+			<place lat="48.02878" lng="16.7785" name="Bruck an der Leitha / BH Bruck" number="3511" spot="1" uid="46611"/>
+			<place lat="48.02532" lng="16.77919" name="Bruck an der Leitha / Hauptplatz" number="3509" spot="1" uid="46609"/>
+			<place lat="48.02874" lng="16.79195" name="Bruck an der Leitha / Parkbad" number="3510" spot="1" uid="46610"/>
+			<place lat="48.06007" lng="16.73811" name="Göttlesbrunn / Dorfplatz" number="3523" spot="1" uid="46623"/>
+			<place lat="4814858" lng="1694776" name="Hainburg / Bahnhof / Ungartor" number="3513" spot="1" uid="46613"/>
+			<place lat="48.14479" lng="16.93267" name="Hainburg / Frachtenbahnhof" number="3512" spot="1" uid="46612"/>
+			<place lat="48.14738" lng="16.94136" name="Hainburg / Hauptplatz" number="3514" spot="1" uid="46614"/>
+			<place lat="48.14723" lng="16.93752" name="Hainburg / Kulturfabrik" number="3515" spot="1" uid="46615"/>
+			<place lat="48.06731" lng="16.78763" name="Höflein / Dorfplatz" number="3520" spot="1" uid="46620"/>
+			<place lat="48.11236" lng="16.85753" name="Petronell / Carnuntum / Archäologischer Park Carnuntum" number="3519" spot="1" uid="46619"/>
+			<place lat="48.10604" lng="16.86747" name="Petronell / Carnuntum / Bahnhof" number="3518" spot="1" uid="46618"/>
+			<place lat="48.07449" lng="16.95162" name="Prellenkirchen / Ortsmitte" number="3522" spot="1" uid="46622"/>
+			<place lat="48.06575" lng="16.85922" name="Rohrau / Gemeindeamt" number="3521" spot="1" uid="46621"/>
+			<place lat="48.13587" lng="17.00647" name="Wolfsthal / Bahnhof" number="3525" spot="1" uid="46625"/>
+		</city>
+		<city lat="48.2058" lng="15.6232" name="St. Pölten" uid="57" zoom="14">
+			<place lat="48.20768" lng="15.62573" name="St. Pölten / BHF Vorplatz" number="3055" spot="1" uid="65756"/>
+			<place lat="48.21412" lng="15.63224" name="St. Pölten / Fachhochschule" number="3094" spot="1" uid="121176"/>
+			<place lat="48.17263" lng="15.62465" name="St. Pölten / Gästehaus Aquilin" number="3050" spot="1" uid="48298"/>
+			<place lat="48.20026" lng="15.63293" name="St. Pölten / Haus 12 - Landhaus" number="3060" spot="1" uid="65758"/>
+			<place lat="48.19918" lng="15.6328" name="St. Pölten / Haus 14 - Landhaus" number="3061" spot="1" uid="65760"/>
+			<place lat="48.1998" lng="15.63244" name="St. Pölten / Haus 16 - Landhaus" number="3062" spot="1" uid="65761"/>
+			<place lat="48.20077" lng="15.63303" name="St. Pölten / Haus 1a - Landhaus" number="3047" spot="1" uid="48295"/>
+			<place lat="48.20215" lng="15.6332" name="St. Pölten / Haus 2 - Landhaus" number="3058" spot="1" uid="65757"/>
+			<place lat="48.20328" lng="15.63349" name="St. Pölten / Haus 7 - Landhaus" number="3059" spot="1" uid="65759"/>
+			<place lat="48.20882" lng="15.62278" name="St. Pölten / HBF Ostportal" number="3042" spot="1" uid="48289"/>
+			<place lat="48.20678" lng="15.62516" name="St. Pölten / Klostergasse" number="3049" spot="1" uid="48297"/>
+			<place lat="48.21361" lng="15.62648" name="St. Pölten / Landesklinikum" number="3057" spot="1" uid="65746"/>
+			<place lat="48.20037" lng="15.63143" name="St. Pölten / Landesmuseum / Festspielhaus" number="3046" spot="1" uid="48294"/>
+			<place lat="48.20544" lng="15.62275" name="St. Pölten / Rathausplatz" number="3044" spot="1" uid="48291"/>
+			<place lat="48.22093" lng="15.64257" name="St. Pölten / Seenerlebnis Viehofen" number="3043" spot="1" uid="48290"/>
+			<place lat="48.20398" lng="15.63249" name="St. Pölten / Tor zum Landhaus" number="3048" spot="1" uid="48296"/>
+			<place lat="48.18721" lng="15.61979" name="St. Pölten / WIFI" number="3056" spot="1" uid="65762"/>
+			<place lat="48.19853" lng="15.63306" name="St. Pölten / Wirtschaftszentrum NÖ" number="3045" spot="1" uid="48292"/>
+		</city>
+		<city lat="48.1077" lng="16.3937" name="Südheide" uid="185" zoom="12">
+			<place lat="48.10808" lng="16.39615" name="Leopoldsdorf / Gemeindeamt" number="3154" spot="1" uid="102628"/>
+			<place lat="48.12467" lng="16.39058" name="Leopoldsdorf / Rustenfeld" number="3156" spot="1" uid="102631"/>
+			<place lat="48.10497" lng="16.40212" name="Leopoldsdorf / ZIAG" number="3155" spot="1" uid="102629"/>
+			<place lat="48.10001" lng="16.42211" name="Maria Lanzendorf / Hauptstraße" number="3157" spot="1" uid="121206"/>
+		</city>
+		<city lat="47.9892" lng="16.2646" name="Thermenregion" uid="146" zoom="12">
+			<place lat="47.96922" lng="16.22321" name="Bad Vöslau / Bahnhof" number="3110" spot="1" uid="44621"/>
+			<place lat="47.96556" lng="16.21441" name="Bad Vöslau / Schlossplatz " number="3111" spot="1" uid="44622"/>
+			<place lat="48.00484" lng="16.24275" name="Baden / Bahnhof " number="3105" spot="1" uid="46197"/>
+			<place lat="48.00618" lng="16.23398" name="Baden / Haltestelle Josefplatz" number="3106" spot="1" uid="46209"/>
+			<place lat="48.00641" lng="16.21916" name="Baden / Strandbad" number="3108" spot="1" uid="46219"/>
+			<place lat="48.00804" lng="16.23094" name="Baden / Tourismusinfo Römertherme" number="3107" spot="1" uid="46216"/>
+			<place lat="48.00435" lng="16.25414" name="BH / Baden" number="3109" spot="1" uid="66533"/>
+			<place lat="48.04081" lng="16.28449" name="Gumpoldskirchen / Bahnhof" number="3116" spot="1" uid="44626"/>
+			<place lat="48.04915" lng="16.31221" name="Guntramsdorf / Hst. Lokalbahn" number="3114" spot="1" uid="44624"/>
+			<place lat="48.06403" lng="16.31386" name="Guntramsdorf / Hst. Neu Guntramsdorf" number="3115" spot="1" uid="44629"/>
+			<place lat="47.95014" lng="16.22773" name="Kottingbrunn / Raiba EKZ" number="3163" spot="1" uid="121201"/>
+			<place lat="47.95711" lng="16.23977" name="Kottingbrunn / Rathbauer" number="3162" spot="1" uid="121200"/>
+			<place lat="47.96181" lng="16.23449" name="Kottingbrunn / Reihenhausanlage AURA" number="3165" spot="1" uid="121203"/>
+			<place lat="47.95185" lng="16.22942" name="Kottingbrunn / Schloss" number="3166" spot="1" uid="121204"/>
+			<place lat="47.94402" lng="16.22395" name="Kottingbrunn / Volkschule" number="3164" spot="1" uid="121202"/>
+			<place lat="48.0177" lng="16.25923" name="Pfaffstätten / Bahnhof " number="3112" spot="1" uid="46248"/>
+			<place lat="47.98467" lng="16.21582" name="Sooß / Rathaus" number="3161" spot="1" uid="121205"/>
+		</city>
+		<city lat="47.9504" lng="15.6129" name="Traisen - Gölsental" uid="180" zoom="10">
+			<place lat="48.03845" lng="15.76965" name="Hainfeld / Bahnhof" number="3079" spot="1" uid="65785"/>
+			<place lat="47.90662" lng="15.61989" name="Hohenberg / Schule" number="3076" spot="1" uid="65782"/>
+			<place lat="48.10044" lng="15.60803" name="Lilienfeld / Bahnhof" number="3075" spot="1" uid="65781"/>
+			<place lat="48.05026" lng="15.74677" name="Rohrbach / Bahnhof" number="3078" spot="1" uid="65784"/>
+			<place lat="48.06972" lng="15.60194" name="Rotheau - Eschenau / Bahnhof" number="3073" spot="1" uid="65779"/>
+			<place lat="47.85361" lng="15.56306" name="St. Aegyd / Marktplatz" number="3088" spot="1" uid="72199"/>
+			<place lat="48.0448" lng="15.6703" name="St. Veit / Bahnhof" number="3077" spot="1" uid="78147"/>
+			<place lat="48.05639" lng="15.6125" name="Traisen / Bahnhof" number="3074" spot="1" uid="65780"/>
+			<place lat="48.10044" lng="15.60803" name="Wilhelmsburg / Kreisbach / Bahnhof" number="3072" spot="1" uid="65778"/>
+		</city>
+		<city lat="47.9835" lng="16.0812" name="Triestingtal" uid="144" zoom="10">
+			<place lat="47.94476" lng="16.10842" name="Berndorf Bahnhof / Ortszentrum " number="3102" spot="1" uid="43856"/>
+			<place lat="47.93739" lng="16.23092" name="Leobersdorf / Bahnhof " number="3100" spot="1" uid="43857"/>
+			<place lat="47.92853" lng="16.21657" name="Leobersdorf / Rathausplatz " number="3101" spot="1" uid="43858"/>
+			<place lat="47.9838" lng="16.04535" name="Weissenbach / Bahnhof" number="3103" spot="1" uid="43855"/>
+		</city>
+		<city lat="48.3269" lng="16.0569" name="Tulln" uid="143" zoom="13">
+			<place lat="48.32048" lng="16.06404" name="Tulln / Campus Fachhochschule" number="3507" spot="1" uid="44612"/>
+			<place lat="48.32061" lng="16.06557" name="Tulln / Campus UFT" number="3555" spot="1" uid="110203"/>
+			<place lat="48.32892" lng="16.03773" name="Tulln / Die Garten Tulln" number="3506" spot="1" uid="43847"/>
+			<place lat="48.33297" lng="16.04987" name="Tulln / Donaulände - Nibelungenplatz" number="3505" spot="1" uid="43848"/>
+			<place lat="48.3267" lng="16.06382" name="Tulln / Hauptbahnhof " number="3501" spot="1" uid="43851"/>
+			<place lat="48.33084" lng="16.05046" name="Tulln / Hauptplatz - Rosenarcade" number="3503" spot="1" uid="44615"/>
+			<place lat="48.32872" lng="16.05382" name="Tulln / Stadtbahnhof" number="3502" spot="1" uid="43849"/>
+			<place lat="48.3324" lng="16.05644" name="Tulln BH / Marc Aurel Park" number="3504" spot="1" uid="43850"/>
+		</city>
+		<city lat="48.2994" lng="15.9065" name="Tullnerfeld West" uid="196" zoom="12">
+			<place lat="48.29993" lng="15.89361" name="Atzenbrugg / Hauptplatz Heiligeneich" number="3093" spot="1" uid="121175"/>
+			<place lat="48.29185" lng="15.90486" name="Atzenbrugg / Schlossplatz" number="3092" spot="1" uid="121174"/>
+		</city>
+		<city lat="48.3343" lng="15.6878" name="Unteres Traisental" uid="165" zoom="11">
+			<place lat="48.27672" lng="15.69627" name="Herzogenburg / Bahnhof" number="3227" spot="1" uid="65807"/>
+			<place lat="48.27859" lng="15.70635" name="Herzogenburg / Freizeitzentrum" number="3068" spot="1" uid="65771"/>
+			<place lat="48.28536" lng="15.6947" name="Herzogenburg / Rathausplatz" number="3067" spot="1" uid="70106"/>
+			<place lat="48.31833" lng="15.67722" name="Inzersdorf / Getzersdorf / Gemeindeamt" number="3070" spot="1" uid="65773"/>
+			<place lat="48.35347" lng="15.69525" name="Nussdorf o.d. Traisen / Gemeindeamt" number="3069" spot="1" uid="65772"/>
+			<place lat="48.32079" lng="15.8087" name="Sitzenberg / Kriegerdenkmal " number="3090" spot="1" uid="90400"/>
+			<place lat="48.348" lng="15.74509" name="Traismauer / Bahnhof" number="3220" spot="1" uid="47474"/>
+			<place lat="48.35062" lng="15.74308" name="Traismauer / Schloß Traismauer" number="3071" spot="1" uid="65774"/>
+		</city>
+		<city lat="48.3188" lng="15.4166" name="Wachau" uid="142" zoom="10">
+			<place lat="48.29245" lng="15.39356" name="Aggsbach / Freizeitzentrum " number="3024" spot="1" uid="42864"/>
+			<place lat="48.29154" lng="15.40705" name="Aggsbach / Parkplatz - Info " number="3025" spot="1" uid="42865"/>
+			<place lat="48.38876" lng="15.52369" name="Dürnstein / Donaustation 21 - Busparkplatz" number="3011" spot="1" uid="42851"/>
+			<place lat="48.39505" lng="15.51873" name="Dürnstein / Donaustation BRANDNER 20" number="3012" spot="1" uid="42853"/>
+			<place lat="48.39302" lng="15.52497" name="Dürnstein / P2 BHF " number="3014" spot="1" uid="42854"/>
+			<place lat="48.24416" lng="15.34132" name="Emmersdorf / Tourismusinfo " number="3027" spot="1" uid="42867"/>
+			<place lat="48.24184" lng="15.33811" name="Emmersdorf / Zentrum - Hotel Donauhof" number="3028" spot="1" uid="42868"/>
+			<place lat="48.36315" lng="15.42807" name="Hofarnsdorf / Feuerwehr " number="3016" spot="1" uid="42856"/>
+			<place lat="48.40742" lng="15.58492" name="Krems / Arte Hotel" number="3009" spot="1" uid="42846"/>
+			<place lat="48.4088" lng="15.60361" name="Krems / Bahnhof " number="3000" spot="1" uid="42835"/>
+			<place lat="48.41262" lng="15.61333" name="Krems / Landesklinikum " number="3007" spot="1" uid="42844"/>
+			<place lat="48.41057" lng="15.59859" name="Krems / Landstraße" number="3003" spot="1" uid="42840"/>
+			<place lat="48.4128" lng="15.60564" name="Krems / Nachtwächter Kreisverkehr" number="3001" spot="1" uid="42837"/>
+			<place lat="48.41244" lng="15.63533" name="Krems / Orange Wings" number="3065" spot="1" uid="65768"/>
+			<place lat="48.4053" lng="15.59853" name="Krems / Strandbad" number="3004" spot="1" uid="42841"/>
+			<place lat="48.40924" lng="15.59592" name="Krems / Südtiroler Platz" number="3002" spot="1" uid="42839"/>
+			<place lat="48.39521" lng="15.57584" name="Mautern a. d. Donau Römerhalle / Tourismus Information" number="3010" spot="1" uid="42847"/>
+			<place lat="48.22461" lng="15.33242" name="Melk / Bahnhof" number="3029" spot="1" uid="42869"/>
+			<place lat="48.2247" lng="15.33885" name="Melk / BH, Abt Karlstraße " number="3037" spot="1" uid="44630"/>
+			<place lat="48.23401" lng="15.3305" name="Melk / Donaustation BRANDNER 10" number="3034" spot="1" uid="42874"/>
+			<place lat="48.22617" lng="15.37017" name="Melk / Firma Gugler" number="3063" spot="1" uid="65749"/>
+			<place lat="48.22424" lng="15.33984" name="Melk / Jugendherberge " number="3036" spot="1" uid="42882"/>
+			<place lat="48.22738" lng="15.32905" name="Melk / Konditorei Mistlbacher / Fußgängerzone" number="3035" spot="1" uid="42875"/>
+			<place lat="48.22664" lng="15.33387" name="Melk / Parkplatz - Tourismusinfo" number="3030" spot="1" uid="42870"/>
+			<place lat="48.22806" lng="15.32744" name="Melk / Radraststation " number="3032" spot="1" uid="42872"/>
+			<place lat="48.22642" lng="15.35344" name="Melk / Schuberth" number="3097" spot="1" uid="121179"/>
+			<place lat="48.22524" lng="15.34774" name="Melk / Wachaubad / Fürnbergstraße" number="3033" spot="1" uid="42873"/>
+			<place lat="48.36458" lng="15.35855" name="Mühldorf / Elsarn / bei Kapelle" number="3022" spot="1" uid="42862"/>
+			<place lat="48.37325" lng="15.34493" name="Mühldorf / Feuerwehr " number="3023" spot="1" uid="42863"/>
+			<place lat="48.32417" lng="15.27556" name="Raxendorf/Wallfahrtskirche Heiligenblut" number="3089" spot="1" uid="84708"/>
+			<place lat="48.39824" lng="15.48433" name="Rossatz - Arnsdorf / Weingut Polz" number="3095" spot="1" uid="121177"/>
+			<place lat="48.39888" lng="15.48448" name="Rossatz - Arnsdorf / Weinstüberl Essl" number="3096" spot="1" uid="121178"/>
+			<place lat="48.3912" lng="15.51635" name="Rossatz / Camping - Fähre " number="3017" spot="1" uid="42857"/>
+			<place lat="48.29417" lng="15.41555" name="Schönbühel / Amtshaus " number="3026" spot="1" uid="42866"/>
+			<place lat="48.36519" lng="15.41743" name="Spitz / Bahnhof" number="3021" spot="1" uid="42861"/>
+			<place lat="48.36257" lng="15.41777" name="Spitz / Donaustation Brandner 15 - Tourismusinfo" number="3020" spot="1" uid="42860"/>
+			<place lat="48.40729" lng="15.5852" name="Stein / Campus Donau Uni Krems" number="3008" spot="1" uid="42845"/>
+			<place lat="48.40275" lng="15.58817" name="Stein / Donaustation BRANDNER 24 " number="3005" spot="1" uid="42842"/>
+			<place lat="48.40462" lng="15.5873" name="Stein / Kunstmeile Krems" number="3006" spot="1" uid="42843"/>
+			<place lat="48.38688" lng="15.54068" name="Unterloiben / Zentrum" number="3015" spot="1" uid="42855"/>
+			<place lat="48.39886" lng="15.47334" name="Weißenkirchen / Bahnhof" number="3019" spot="1" uid="42859"/>
+			<place lat="48.39521" lng="15.4717" name="Weißenkirchen / Rollfährestraße" number="3018" spot="1" uid="42858"/>
+		</city>
+		<city lat="48.8638" lng="15.065" name="Waldviertel" uid="161" zoom="10">
+			<place lat="48.86472" lng="15.1225" name="Heidenreichstein / Burg Heidenreichstein" number="3600" spot="1" uid="65744"/>
+			<place lat="48.94306" lng="15.04389" name="Litschau / Bushof Litschau" number="3601" spot="1" uid="65745"/>
+		</city>
+		<city lat="47.8221" lng="16.2498" name="Wiener Neustadt" uid="156" zoom="12">
+			<place lat="47.73222" lng="16.2125" name="Bad Erlach / BHF Bad Erlach" number="3135" spot="1" uid="54649"/>
+			<place lat="47.73361" lng="16.20556" name="Bad Erlach / Therme Linsberg Asia" number="3136" spot="1" uid="54650"/>
+			<place lat="47.79271" lng="16.26706" name="Katzelsdorf / Bahnhof" number="3138" spot="1" uid="66964"/>
+			<place lat="47.77861" lng="16.27" name="Katzelsdorf / Zinnfigurenwelt" number="3139" spot="1" uid="65750"/>
+			<place lat="47.71624" lng="16.18619" name="Pitten / Marktplatz Pitten" number="3137" spot="1" uid="54651"/>
+			<place lat="47.84116" lng="16.25949" name="Wr. Neustadt / Aqua Nova / Graf von Zeppelin Str.12" number="3125" spot="1" uid="54639"/>
+			<place lat="47.83889" lng="16.24861" name="Wr. Neustadt / FH" number="3127" spot="1" uid="54641"/>
+			<place lat="47.81818" lng="16.21743" name="Wr. Neustadt / Fischapark Dreipappelstrasse" number="3131" spot="1" uid="54645"/>
+			<place lat="47.81194" lng="16.23417" name="Wr. Neustadt / Hauptbahnhof" number="3121" spot="1" uid="54635"/>
+			<place lat="47.81333" lng="16.24361" name="Wr. Neustadt / Hauptplatz" number="3129" spot="1" uid="54643"/>
+			<place lat="47.83417" lng="16.23833" name="Wr. Neustadt / Hst. Nord" number="3123" spot="1" uid="54637"/>
+			<place lat="47.83389" lng="16.25583" name="Wr. Neustadt / Hst.Civitas Nova" number="3122" spot="1" uid="54636"/>
+			<place lat="47.81194" lng="16.24639" name="Wr. Neustadt / Neues Rathaus" number="3132" spot="1" uid="54646"/>
+			<place lat="47.80972" lng="16.24361" name="Wr. Neustadt / Neunkirchnerstrasse" number="3128" spot="1" uid="54642"/>
+			<place lat="47.81111" lng="16.20861" name="Wr. Neustadt / Siedlung Anemonensee" number="3130" spot="1" uid="54644"/>
+			<place lat="47.83778" lng="16.255" name="Wr. Neustadt / Studentenwohnheim" number="3126" spot="1" uid="54640"/>
+			<place lat="47.81333" lng="16.23917" name="Wr. Neustadt / Theatergarage / Fußgängerzone" number="3133" spot="1" uid="54647"/>
+			<place lat="47.80056" lng="16.2375" name="Wr. Neustadt / Volksbad" number="3124" spot="1" uid="54638"/>
+			<place lat="47.81611" lng="16.24417" name="Wr. Neustadt / Wienerstrasse / Eyerspergring" number="3134" spot="1" uid="54648"/>
+		</city>
+		<city lat="48.1739" lng="15.1556" name="Wieselburg" uid="151" zoom="11">
+			<place lat="47.92833" lng="15.08861" name="Gaming / Haus der Begegnung" number="3054" spot="1" uid="65747"/>
+			<place lat="48.14444" lng="15.15028" name="Petzenkirchen / Haubiversum" number="3041" spot="1" uid="48306"/>
+			<place lat="48.20841" lng="15.21696" name="Pöchlarn / Bahnhof" number="3051" spot="1" uid="48307"/>
+			<place lat="48.21167" lng="15.20667" name="Pöchlarn / Oskar Kokoschka Geburtshaus" number="3052" spot="1" uid="48309"/>
+			<place lat="48.05988" lng="15.13165" name="Purgstall / BHF" number="3091" spot="1" uid="121173"/>
+			<place lat="48.0051" lng="15.16466" name="Scheibbs / Bahnhof" number="3053" spot="1" uid="65755"/>
+			<place lat="48.13161" lng="15.14151" name="Wieselburg / Bahnhof" number="3038" spot="1" uid="48303"/>
+			<place lat="48.13917" lng="15.13917" name="Wieselburg / Fachhochschule" number="3040" spot="1" uid="48305"/>
+			<place lat="48.13407" lng="15.14628" name="Wieselburg / Freizeitzentrum" number="3039" spot="1" uid="48304"/>
+			<place lat="48.15748" lng="15.09835" name="Ybbs a. d. Donau / Bahnhof" number="3224" spot="1" uid="47478"/>
+		</city>
+	</country>
+	<country domain="ch" hotline="+41415080800" lat="47.2569" lng="8.62976" name="nextbike Switzerland" zoom="8">
+		<city lat="47.0476" lng="8.3011" name="Luzern (nb)" uid="126" zoom="15">
+			<place lat="47.03399" lng="8.30313" name="Allmend / Horwerstr. 85" number="8053" spot="1" uid="38568"/>
+			<place lat="47.04132" lng="8.30766" name="Bireggstr. / Neustadtstr." number="8067" spot="1" uid="34404"/>
+			<place lat="47.05052" lng="8.29958" name="Bruchstr. / Schützenstr." number="8017" spot="1" uid="38585"/>
+			<place lat="47.04599" lng="8.30917" name="Bundesplatz / Zentralstr." number="8037" spot="1" uid="34397"/>
+			<place lat="47.07057" lng="8.28192" name="Emmen, Bahnhofstrasse 11 " number="8021" spot="1" uid="26816"/>
+			<place lat="47.04097" lng="8.31102" name="EWL / Industriestrasse 6" number="8034" spot="1" uid="39633"/>
+			<place lat="47.05351" lng="8.30776" name="Grendel 8" number="8110" spot="1" uid="38587"/>
+			<place lat="47.0521" lng="8.29833" name="Gütschstr. 2" number="8069" spot="1" uid="64404"/>
+			<place lat="47.04662" lng="8.30677" name="Habsburgerstr. / Winkelriedstr." number="8063" spot="1" uid="34398"/>
+			<place lat="47.04752" lng="8.30948" name="Habsburgerstr. 1a / Zentralstr." number="8032" spot="1" uid="34395"/>
+			<place lat="47.05451" lng="8.31313" name="Haldenstr. 1 / Kurplatz" number="8062" spot="1" uid="65653"/>
+			<place lat="47.05525" lng="8.31715" name="Haldenstrasse 33" number="8051" spot="1" uid="39632"/>
+			<place lat="47.05089" lng="8.30905" name="Hauptpost / Bahnhofstr. 1" number="8042" spot="1" uid="38572"/>
+			<place lat="47.01739" lng="8.30708" name="Horw, Bahnhof ZB / Gleis 1" number="8103" spot="1" uid="25987"/>
+			<place lat="47.02297" lng="8.30903" name="Horw, Kantonsstr. / Kastanienbaumstr." number="8060" spot="1" uid="42814"/>
+			<place lat="47.01426" lng="8.31144" name="Horw, Kantonsstr. / Winkelstr." number="8064" spot="1" uid="42813"/>
+			<place lat="47.01949" lng="8.31154" name="Horw, Station Zentrum" number="8066" spot="1" uid="38570"/>
+			<place lat="47.04691" lng="8.34386" name="Hotel Seeburg" number="8039" spot="1" uid="77717"/>
+			<place lat="47.04992" lng="8.31303" name="Inseliquai 1 / Frohburgstrasse" number="8057" spot="1" uid="34386"/>
+			<place lat="47.06171" lng="8.30163" name="Jugendherberge / Sedelstr. 12" number="8043" spot="1" uid="23220"/>
+			<place lat="47.04918" lng="8.3066" name="Kantonalbank / Pilatusstr. 12" number="8055" spot="1" uid="42821"/>
+			<place lat="47.05744" lng="8.29665" name="Kantonspital Personalhaus 2 / Spitalstr." number="8033" spot="1" uid="38584"/>
+			<place lat="47.05159" lng="8.30074" name="Kasernenplatz / Naturmuseum" number="8101" spot="1" uid="34407"/>
+			<place lat="47.03409" lng="8.28231" name="Kriens, Bellpark / Luzernerstr." number="8024" spot="1" uid="38592"/>
+			<place lat="47.03374" lng="8.27958" name="Kriens, Gallusstr. / Luzernerstr." number="8026" spot="1" uid="38569"/>
+			<place lat="47.037" lng="8.29212" name="Kriens, Luzernerstr. / St. Kupferhammer" number="8031" spot="1" uid="39637"/>
+			<place lat="47.02662" lng="8.30243" name="Kriens, Matthof SBB-Station" number="8028" spot="1" uid="38567"/>
+			<place lat="47.04995" lng="8.33656" name="Lido Strandbad / Park&amp;Ride" number="8040" spot="1" uid="38591"/>
+			<place lat="47.05718" lng="8.31078" name="Löwenplatz / Bourbaki-Panorama" number="8056" spot="1" uid="38589"/>
+			<place lat="47.05711" lng="8.31041" name="Löwenplatz/Zürichstrasse" number="8048" spot="1" uid="65655"/>
+			<place lat="47.06176" lng="8.30859" name="Maihofstr. / Vallasterstr." number="8104" spot="1" uid="38582"/>
+			<place lat="47.06723" lng="8.31491" name="Maihofstrasse / Maihofmatte" number="8014" spot="1" uid="38580"/>
+			<place lat="47.04542" lng="8.30766" name="Moosstr. / Bundesstr." number="8018" spot="1" uid="39638"/>
+			<place lat="47.04581" lng="8.30422" name="Moosstr. / Obergrundstr." number="8065" spot="1" uid="34399"/>
+			<place lat="47.0489" lng="8.30809" name="Morgartenstr. / Frankenstr." number="8047" spot="1" uid="34394"/>
+			<place lat="47.05201" lng="8.30343" name="Mühleplatz" number="8044" spot="1" uid="38586"/>
+			<place lat="47.05483" lng="8.31773" name="Nationalquai / Seebad (Badesaison)" number="8036" spot="1" uid="42822"/>
+			<place lat="47.04058" lng="8.30142" name="Obergrundstr. / Eichhof" number="8027" spot="1" uid="39636"/>
+			<place lat="47.04308" lng="8.30328" name="Paulusplatz / Obergrundstr." number="8106" spot="1" uid="34401"/>
+			<place lat="47.04777" lng="8.30333" name="Pilatusplatz / Hallwilerweg" number="8035" spot="1" uid="34408"/>
+			<place lat="47.04985" lng="8.30883" name="Pilatusstr. 1" number="8030" spot="1" uid="34389"/>
+			<place lat="47.04845" lng="8.30561" name="Pilatusstr. 35 / Winkelriedstr. (wegen Bauarbeiten ausser Betrieb)" spot="1" uid="34396"/>
+			<place lat="47.04969" lng="8.30772" name="Pilatusstr. 8 / Seidenhofstr." number="8049" spot="1" uid="34390"/>
+			<place lat="47.04439" lng="8.31444" name="Rösslimattstr. / Werkhofstr." number="8013" spot="1" uid="38563"/>
+			<place lat="47.06275" lng="8.27383" name="Roupigenplatz 1" number="8029" spot="1" uid="38574"/>
+			<place lat="47.05422" lng="8.33948" name="Schädrütistr. / Würzenbach" number="8045" spot="1" uid="39634"/>
+			<place lat="47.03727" lng="8.32729" name="Schönbühlcenter" number="8050" spot="1" uid="38566"/>
+			<place lat="47.05279" lng="8.3087" name="Schwanenplatz / Kapellplatz" number="8109" spot="1" uid="65654"/>
+			<place lat="47.05436" lng="8.30901" name="Seehofstr. / Matthäuskirche" number="8054" spot="1" uid="38588"/>
+			<place lat="47.05394" lng="8.29909" name="St. Karlistr. /  Geissmattstr." number="8041" spot="1" uid="38583"/>
+			<place lat="47.05059" lng="8.30571" name="Stadttheater / Hirschengraben" number="8052" spot="1" uid="34405"/>
+			<place lat="47.03807" lng="8.2992" name="Südpol/Arsenalstrasse 28" number="8015" spot="1" uid="70900"/>
+			<place lat="47.04947" lng="8.30957" name="Tourist-Information / Zentralstr. 5" number="8102" spot="1" uid="16871"/>
+			<place lat="47.04343" lng="8.31412" name="Tribschenstr. / Werkhofstr." number="8025" spot="1" uid="38564"/>
+			<place lat="47.04957" lng="8.31139" name="Velostation Bhf, 06.00-22.00" number="8011" spot="1" uid="43734"/>
+			<place lat="47.05325" lng="8.33455" name="Verkehrshaus / Lidostr." number="8022" spot="1" uid="24871"/>
+			<place lat="47.0418" lng="8.31664" name="Weinberglistr. 4" number="8059" spot="1" uid="57172"/>
+			<place lat="47.04654" lng="8.31794" name="Werftestr. / Ufschötti" number="8016" spot="1" uid="34387"/>
+			<place lat="47.04872" lng="8.30509" name="Winkelriedstr. 14 / Stadtverwaltung " number="8019" spot="1" uid="65652"/>
+		</city>
+	</country>
+	<country domain="lv" hotline="+37167788333" lat="56.9704" lng="23.9749" name="BalticBike Latvia" zoom="9">
+		<city lat="56.9732" lng="23.8225" name="Jurmala" uid="140" zoom="12">
+			<place lat="56.97169" lng="23.79748" name="6701 Majori" number="6701" spot="1" uid="41613"/>
+			<place lat="56.97708" lng="23.81186" name="6702 Dzintari, Turaidas iela" number="6702" spot="1" uid="41614"/>
+			<place lat="56.98537" lng="23.85458" name="6703 Bulduri, Vienības prosp 1A" number="6703" spot="1" uid="41615"/>
+		</city>
+		<city lat="56.9505" lng="24.1033" name="Riga" uid="128" zoom="14">
+			<place lat="56.9509" lng="24.08479" name="6704 Hotel Islande" number="6704" spot="1" uid="40599"/>
+			<place lat="56.94408" lng="24.09418" name="6705 Radisson Blu Daugava" number="6705" spot="1" uid="45887"/>
+			<place lat="56.94771" lng="24.12062" name="6706 Origo, Centrala Stacija " number="6706" spot="1" uid="39945"/>
+			<place lat="56.94754" lng="24.10613" name="6707 Ratslaukums" number="6707" spot="1" uid="40602"/>
+			<place lat="56.94839" lng="24.11287" name="6708 Galerija Centrs, Vecrīga" number="6708" spot="1" uid="45886"/>
+			<place lat="56.95032" lng="24.11166" name="6709 Hotel de Rome" number="6709" spot="1" uid="40601"/>
+			<place lat="56.95462" lng="24.11792" name="6710 Radisson Blu Hotel Latvia" number="6710" spot="1" uid="40600"/>
+			<place lat="56.95865" lng="24.10585" name="6711 Pulkveza Brieza" number="6711" spot="1" uid="40604"/>
+			<place lat="56.94766" lng="24.10846" name="6712 Pēterbaznīca" number="6712" spot="1" uid="65542"/>
+			<place lat="56.94188" lng="24.08237" name="6714 Maritim Hotel" number="6714" spot="1" uid="65539"/>
+			<place lat="57.00529" lng="24.1568" name="6715 Mežaparks" number="6715" spot="1" uid="65546"/>
+			<place lat="56.95125" lng="24.12151" name="6716 Leļļu Teātris" number="6716" spot="1" uid="65543"/>
+			<place lat="56.95891" lng="24.11276" name="6717 Albert Hotel" number="6717" spot="1" uid="65545"/>
+			<place lat="56.95164" lng="24.05437" name="6718 Botaniskais darzs" number="6718" spot="1" uid="65541"/>
+			<place lat="56.95947" lng="24.12701" name="6719 Dailes Teātris" number="6719" spot="1" uid="65548"/>
+			<place lat="56.94241" lng="24.11405" name="6720 Spīķeri" number="6720" spot="1" uid="65544"/>
+		</city>
+	</country>
+	<country domain="pl" hotline="+48223821312" lat="52.2143" lng="19.0942" name="nextbike Poland" zoom="6">
+		<city lat="52.257" lng="20.9188" name="Bemowo" uid="197" zoom="13">
+			<place lat="52.23324" lng="20.90584" name="Amfiteatr" number="6207" spot="1" uid="122367"/>
+			<place lat="52.22069" lng="20.91792" name="Ciepłownia" number="6208" spot="1" uid="122368"/>
+			<place lat="52.25765" lng="20.93257" name="Fort Bema" number="6206" spot="1" uid="122366"/>
+			<place lat="52.23919" lng="20.89875" name="Pętla Górczewska" number="6203" spot="1" uid="122360"/>
+			<place lat="52.26058" lng="20.92435" name="Pętla Nowe Bemowo" number="6205" spot="1" uid="122364"/>
+			<place lat="52.25822" lng="20.89842" name="Pętla Stare Bemowo" number="6204" spot="1" uid="122356"/>
+			<place lat="52.2387" lng="20.91373" name="Ratusz" number="6201" spot="1" uid="122351"/>
+			<place lat="52.22405" lng="20.89998" name="Rozłogi" number="6210" spot="1" uid="122371"/>
+			<place lat="52.25227" lng="20.91406" name="Skwer Generalski" number="6202" spot="1" uid="122353"/>
+			<place lat="52.25207" lng="20.92374" name="ZUS" number="6209" spot="1" uid="122370"/>
+		</city>
+		<city lat="52.4077" lng="16.9323" name="Poznan" uid="192" zoom="13">
+			<place lat="52.40284" lng="16.91162" name="Dworzec Główny PKP" number="6157" spot="1" uid="121569"/>
+			<place lat="52.41045" lng="16.93787" name="Male Garbary" number="6153" spot="1" uid="121574"/>
+			<place lat="52.41034" lng="16.914" name="Most Teatralny" number="6151" spot="1" uid="121572"/>
+			<place lat="52.40808" lng="16.92915" name="Plac Wolnosci" number="6152" spot="1" uid="121573"/>
+			<place lat="52.40089" lng="16.92823" name="Poliwejska" number="5156" spot="1" uid="121577"/>
+			<place lat="52.39636" lng="16.9502" name="Rondo Rataje" number="6155" spot="1" uid="121576"/>
+			<place lat="52.40918" lng="16.95533" name="Rondo Srodka" number="6154" spot="1" uid="121575"/>
+		</city>
+		<city lat="51.1097" lng="17.0485" name="Wrocław" uid="148" zoom="13">
+			<place lat="51.09983" lng="17.03518" name="Dworzec Główny PKP" number="6013" spot="1" uid="72330"/>
+			<place lat="51.11211" lng="17.06147" name="Dwudziestolatka" number="6016" spot="1" uid="72333"/>
+			<place lat="51.10803" lng="17.03947" name="Galeria Dominikańska" number="6003" spot="1" uid="72319"/>
+			<place lat="51.11276" lng="17.03972" name="Hala Targowa" number="6008" spot="1" uid="72335"/>
+			<place lat="51.11397" lng="17.06718" name="Kredka i Ołówek" number="6007" spot="1" uid="72324"/>
+			<place lat="51.11436" lng="17.03383" name="Most Uniwersytecki" number="6005" spot="1" uid="72322"/>
+			<place lat="51.10138" lng="17.0285" name="Piłsudskiego/Świdnicka" number="6012" spot="1" uid="72329"/>
+			<place lat="51.1104" lng="17.05556" name="Plac Grunwaldzki/ Polaka" number="6006" spot="1" uid="72323"/>
+			<place lat="51.11153" lng="17.02098" name="Plac Jana Pawła II" number="6010" spot="1" uid="72327"/>
+			<place lat="51.11052" lng="17.03932" name="Plac Nowy Targ" number="6004" spot="1" uid="72320"/>
+			<place lat="51.10822" lng="17.02144" name="Plac Orląt Lwowskich" number="6009" spot="1" uid="72326"/>
+			<place lat="51.10723" lng="17.06129" name="Politechnika A1" number="6014" spot="1" uid="72331"/>
+			<place lat="51.10815" lng="17.06476" name="Politechnika B4 " number="6015" spot="1" uid="72332"/>
+			<place lat="51.10769" lng="17.03246" name="Przejście Świdnickie" number="6002" spot="1" uid="72318"/>
+			<place lat="51.10974" lng="17.03015" name="Rynek/ Plac Solny" number="6011" spot="1" uid="72328"/>
+			<place lat="51.11049" lng="17.03369" name="Rynek/ Wita Stwosza" number="6001" spot="1" uid="72314"/>
+			<place lat="51.10411" lng="17.0847" name="Wittiga Akademiki" number="6017" spot="1" uid="72334"/>
+		</city>
+		<city lat="51.1128" lng="17.0247" name="WROCŁAW 61" uid="187" zoom="12">
+			<place lat="51.0993" lng="17.02748" name="Arkady " number="6123" spot="1" uid="100937"/>
+			<place lat="51.08904" lng="16.99989" name="Borek" number="6126" spot="1" uid="121610"/>
+			<place lat="51.1243" lng="17.08562" name="Concerto Verona " number="6122" spot="1" uid="100924"/>
+			<place lat="51.09662" lng="16.98859" name="Corte Verona " number="6120" spot="1" uid="100925"/>
+			<place lat="51.12102" lng="16.99322" name="Dawne Zakłady Mięsne" number="6132" spot="1" uid="121614"/>
+			<place lat="51.10604" lng="17.03145" name="Fortum" number="6118" spot="1" uid="98606"/>
+			<place lat="51.07612" lng="16.96211" name="Giardini Verona" number="6121" spot="1" uid="100914"/>
+			<place lat="51.10803" lng="17.07407" name="Hala Stulecia" number="6131" spot="1" uid="121612"/>
+			<place lat="51.10756" lng="17.05048" name="IMPART" number="6124" spot="1" uid="103900"/>
+			<place lat="51.1176" lng="17.04097" name="Nokia Siemens Networks" number="6127" spot="1" uid="121607"/>
+			<place lat="51.11177" lng="17.05935" name="Pasaż Grunwaldzki" number="6125" spot="1" uid="121606"/>
+			<place lat="51.08869" lng="17.01428" name="Rondo Verona" number="6128" spot="1" uid="121608"/>
+			<place lat="51.09041" lng="17.03312" name="Wrocławski Park Wodny" number="6130" spot="1" uid="121611"/>
+			<place lat="51.10973" lng="17.02637" name="WSZ Edukacja" number="6119" spot="1" uid="100935"/>
+			<place lat="51.10561" lng="17.07647" name="ZOO" number="6129" spot="1" uid="121609"/>
+		</city>
+	</country>
+	<country domain="ur" hotline="+493055576911" lat="53.9351" lng="14.1229" name="UsedomRad Germany" zoom="9">
+		<city lat="53.9779" lng="13.9925" name="Usedom" uid="176" zoom="10">
+			<place lat="53.90709" lng="14.24868" name="Adler-Schiffe-Kai Stadtzentrum Swinemünde 5550" number="5550" spot="1" uid="71523"/>
+			<place lat="53.9356" lng="13.93423" name="Alte Fischräucherei Rankwitz - Hafen 5532" number="5532" spot="1" uid="66421"/>
+			<place lat="54.02321" lng="14.00619" name="Aquarius Ferienwohnungen 5557" number="5557" spot="1" uid="75016"/>
+			<place lat="53.94656" lng="14.18219" name="AURELIA Hotel St. Hubertus Heringsdorf 5544" number="5544" spot="1" uid="68609"/>
+			<place lat="53.96008" lng="14.14846" name="AURELIA Reisebüro Heringsdorf 5552" number="5552" spot="1" uid="71184"/>
+			<place lat="53.95795" lng="14.16425" name="AURELIA Villa Flora Heringsdorf 5546" number="5546" spot="1" uid="68615"/>
+			<place lat="53.95048" lng="14.17537" name="AURELIA Villa Saphira Heringsdorf 5545" number="5545" spot="1" uid="68610"/>
+			<place lat="53.9643" lng="14.12941" name="Bahnhof Bansin 5520" number="5520" spot="1" uid="66405"/>
+			<place lat="54.03539" lng="14.02222" name="Bahnhof Kölpinsee 5543" number="5543" spot="1" uid="79454"/>
+			<place lat="54.04554" lng="13.99946" name="Bahnhof Koserow 5542" number="5542" spot="1" uid="96049"/>
+			<place lat="53.98228" lng="14.07724" name="Bahnhof Schmollensee 5519" number="5519" spot="1" uid="66403"/>
+			<place lat="54.08132" lng="13.86913" name="Bahnhof Trassenheide 2.Trasse 5558" number="5558" spot="1" uid="83392"/>
+			<place lat="54.06599" lng="13.95912" name="Bahnhof Zempin 5511" number="5511" spot="1" uid="66391"/>
+			<place lat="54.07554" lng="13.90424" name="Bahnhof Zinnowitz 5507" number="5507" spot="1" uid="66387"/>
+			<place lat="53.97377" lng="13.5485" name="Bahnhof Züssow 5539" number="5539" spot="1" uid="66432"/>
+			<place lat="53.91832" lng="14.25935" name="Balticbike.pl Swinemünde 5528" number="5528" spot="1" uid="66413"/>
+			<place lat="53.91901" lng="14.25828" name="Balticpark Swinemünde 5548" number="5548" spot="1" uid="71521"/>
+			<place lat="54.12364" lng="13.83806" name="Bike Hotel Usedom 5553" number="5553" spot="1" uid="82170"/>
+			<place lat="53.90904" lng="14.01761" name="Botanischer Garten Mellenthin 5531" number="5531" spot="1" uid="66418"/>
+			<place lat="54.11975" lng="13.83502" name="Büro Vratny 5567" number="5567" spot="1" uid="117708"/>
+			<place lat="54.04614" lng="14.01014" name="Camping  Am Sandfeld  Koserow 5514" number="5514" spot="1" uid="66394"/>
+			<place lat="53.93883" lng="14.19228" name="CSI Ferienwohnungen Schuldt Ahlbeck 5526" number="5526" spot="1" uid="66411"/>
+			<place lat="53.8516" lng="13.70427" name="Fahrradfachmarkt Prepernau Anklam 5536" number="5536" spot="1" uid="66429"/>
+			<place lat="54.04965" lng="13.75452" name="Fahrradfachmarkt Pretzer Wolgast 5540" number="5540" spot="1" uid="66433"/>
+			<place lat="53.96765" lng="14.13639" name="Fahrradservice Kruggel Bansin 5521" number="5521" spot="1" uid="66406"/>
+			<place lat="54.07643" lng="13.90847" name="Fahrradservice Kruggel Zinnowitz Neue Strandstr. 5506" number="5506" spot="1" uid="66086"/>
+			<place lat="54.07909" lng="13.90822" name="Fahrradservice Kruggel Zinnowitz Wachsmannstr. 5505" number="5505" spot="1" uid="66084"/>
+			<place lat="54.09227" lng="13.87033" name="Fahrradverleih Hertel Trassenheide 5503" number="5503" spot="1" uid="66080"/>
+			<place lat="54.11839" lng="13.8287" name="Fahrradverleih Holtz Karlshagen 5502" number="5502" spot="1" uid="66072"/>
+			<place lat="54.04983" lng="13.99903" name="Fahrradverleih Skerswetat Koserow 5513" number="5513" spot="1" uid="66393"/>
+			<place lat="53.96725" lng="13.94063" name="Ferienwohnanlage `Alte Molkerei` Liepe 5533" number="5533" spot="1" uid="65937"/>
+			<place lat="54.00044" lng="14.05864" name="Forstamt &amp; Kletterwald Neu Pudagla 5518" number="5518" spot="1" uid="66402"/>
+			<place lat="54.06358" lng="13.91676" name="Hafen Zinnowitz 5547" number="5547" spot="1" uid="71183"/>
+			<place lat="54.13795" lng="13.76918" name="Historisches Museum 5501" number="5501" spot="1" uid="66065"/>
+			<place lat="53.96263" lng="14.15807" name="Hotel Coralle 5523" number="5523" spot="1" uid="66408"/>
+			<place lat="54.05343" lng="13.9975" name="Hotel Hanse Kogge Koserow 5512" number="5512" spot="1" uid="66392"/>
+			<place lat="54.05095" lng="13.99843" name="Hotel Nautic Koserow 5570" number="5570" spot="1" uid="117712"/>
+			<place lat="53.84137" lng="13.68362" name="Hotel Pommernland 5559" number="5559" spot="1" uid="71177"/>
+			<place lat="54.0414" lng="14.03006" name="Hotel Seerose Kölpinsee 5515" number="5515" spot="1" uid="66395"/>
+			<place lat="54.05621" lng="13.77666" name="Hotel Spitzenhörnbucht Wolgast 5541" number="5541" spot="1" uid="66434"/>
+			<place lat="54.06015" lng="13.95153" name="Inselhof Vineta Zempin 5566" number="5566" spot="1" uid="85161"/>
+			<place lat="54.08145" lng="13.86816" name="Jopi-Bike im Trassenheider Bahnhof 5504" number="5504" spot="1" uid="66081"/>
+			<place lat="53.94226" lng="14.07239" name="Kirche, Galerie &amp; Feininger Rundweg Benz 5530" number="5530" spot="1" uid="66417"/>
+			<place lat="53.91923" lng="14.2562" name="Konzertmuschel Swinemünde 5549" number="5549" spot="1" uid="71520"/>
+			<place lat="54.07022" lng="13.83608" name="Landwirtschaftlicher Erlebnisbereich Mölschow 5509" number="5509" spot="1" uid="66389"/>
+			<place lat="53.95078" lng="14.16524" name="Maja Ferienappartements Heringsdorf 5524" number="5524" spot="1" uid="66409"/>
+			<place lat="53.93882" lng="14.185" name="Mietrad Schröder Ahlbeck 5525" number="5525" spot="1" uid="66410"/>
+			<place lat="53.94679" lng="13.85741" name="Naturcamping Lassan 5538" number="5538" spot="1" uid="66431"/>
+			<place lat="54.01213" lng="13.85887" name="Naturcamping Lütow 5508" number="5508" spot="1" uid="66388"/>
+			<place lat="54.04689" lng="13.84814" name="Naturhafen Krummin 5554" number="5554" spot="1" uid="82162"/>
+			<place lat="54.0387" lng="14.02463" name="Ostseestrandklinik Klaus Störtebeker 5556" number="5556" spot="1" uid="73746"/>
+			<place lat="53.85628" lng="13.68856" name="Rathaus Anklam  5537" number="5537" spot="1" uid="66430"/>
+			<place lat="53.92321" lng="14.16109" name="Sonnhotel Maja Korswandt 5529" number="5529" spot="1" uid="66414"/>
+			<place lat="53.87454" lng="13.91575" name="Stadtinfo im Naturparkhaus Usedom 5535" number="5535" spot="1" uid="66428"/>
+			<place lat="53.97948" lng="13.94427" name="Swingolf Middeke Reestow 5534" number="5534" spot="1" uid="66427"/>
+			<place lat="53.91455" lng="14.23459" name="UBB Bahnhof Swinemünde / Balticbike.pl 5527" number="5527" spot="1" uid="66412"/>
+			<place lat="54.07833" lng="13.83359" name="Usedom aktiv 5510" number="5510" spot="1" uid="66390"/>
+			<place lat="54.01309" lng="14.05199" name="Usedom Rad GmbH Zentrale 5555" number="5555" spot="1" uid="66400"/>
+			<place lat="53.97118" lng="14.14554" name="Usedom Tourismus Gesellschaft Bansin 5522" number="5522" spot="1" uid="66407"/>
+			<place lat="54.08162" lng="13.91071" name="Vineta Hotels Zinnowitz 5560" number="5560" spot="1" uid="85159"/>
+			<place lat="54.11532" lng="13.83094" name="Vratny Am Pennymarkt 5568" number="5568" spot="1" uid="117709"/>
+			<place lat="54.11987" lng="13.83674" name="Vratny Strandstraße 24 5569" number="5569" spot="1" uid="117710"/>
+			<place lat="53.90975" lng="14.26691" name="Yachthafen Swinemünde 5551" number="5551" spot="1" uid="71526"/>
+			<place lat="54.01638" lng="14.06863" name="Zweirad - Awe Ückeritz Strandpromenade 5516" number="5516" spot="1" uid="66397"/>
+		</city>
+	</country>
+	<country domain="nb" hotline="+493069205046" lat="49.5074" lng="11.0426" name="NorisBike Germany" zoom="10">
+		<city lat="49.4479" lng="11.0814" name="Nürnberg" uid="6" zoom="12">
+			<place lat="49.441" lng="11.09008" name="Allersberger Straße/Paulstraße" number="4665" spot="1" uid="103596"/>
+			<place lat="49.45418" lng="11.07462" name="Augustinerstr./Karlstr." number="4603" spot="1" uid="66094"/>
+			<place lat="49.46068" lng="11.10558" name="Äußere Sulzbacher Straße/ B4R" number="4621" spot="1" uid="66114"/>
+			<place lat="49.42632" lng="11.01839" name="Bhf Nürnberg-Stein" number="4653" spot="1" uid="66152"/>
+			<place lat="49.44402" lng="11.08121" name="Celtisplatz" number="4636" spot="1" uid="103589"/>
+			<place lat="49.4283" lng="11.0652" name="Dianaplatz" number="4650" spot="1" uid="66149"/>
+			<place lat="49.43388" lng="11.11194" name="Doku-Zentrum" number="4633" spot="1" uid="66126"/>
+			<place lat="49.4352" lng="11.11636" name="Dutzendteich" spot="1" uid="493"/>
+			<place lat="49.45234" lng="11.09609" name="Georg-Simon-Ohm-FH/Wassertorstraße" number="4602" spot="1" uid="66093"/>
+			<place lat="49.44709" lng="11.07483" name="Germanisches Nationalmuseum  " number="4613" spot="1" uid="66105"/>
+			<place lat="49.44637" lng="11.08065" name="Hauptbahnhof" number="4604" spot="1" uid="66095"/>
+			<place lat="49.45327" lng="11.07883" name="Heilig-Geist-Spital / Spietalgasse 3" number="4605" spot="1" uid="66096"/>
+			<place lat="49.45946" lng="11.05998" name="Kirchenweg/Johannisstrasse" number="4608" spot="1" uid="66100"/>
+			<place lat="49.44906" lng="11.03629" name="Leyher Straße/Witschelstraße" number="4637" spot="1" uid="66130"/>
+			<place lat="49.44996" lng="11.08277" name="Lorenzer Straße / Marientormauer" number="4618" spot="1" uid="66111"/>
+			<place lat="49.43622" lng="11.08375" name="Maffeiplatz" number="4638" spot="1" uid="66131"/>
+			<place lat="49.45876" lng="11.08132" name="Maxtor" number="4609" spot="1" uid="66101"/>
+			<place lat="49.46247" lng="11.06427" name="Nordklinikum" number="4601" spot="1" uid="66091"/>
+			<place lat="49.48716" lng="11.12771" name="Nordostpark Nord" number="4660" spot="1" uid="66162"/>
+			<place lat="49.48279" lng="11.12805" name="Nordostpark Süd" number="4659" spot="1" uid="66161"/>
+			<place lat="49.43349" lng="11.09641" name="Nornenstraße/Nürbanum" number="4640" spot="1" uid="66135"/>
+			<place lat="49.44317" lng="11.09979" name="Peterskirche/ Regensburger Straße" number="4641" spot="1" uid="66136"/>
+			<place lat="49.44764" lng="11.0661" name="Plärrer" number="4610" spot="1" uid="66102"/>
+			<place lat="49.43884" lng="11.10224" name="Platz der Opfer des Faschismus" number="4639" spot="1" uid="66133"/>
+			<place lat="49.45701" lng="11.08961" name="Rathenauplatz" number="4611" spot="1" uid="66103"/>
+			<place lat="49.46933" lng="11.08223" name="Rollnerstraße/Nordring" number="4625" spot="1" uid="66118"/>
+			<place lat="49.44394" lng="11.05454" name="Rothenburger Str.Frankenschnellweg" number="4644" spot="1" uid="66140"/>
+			<place lat="49.4488" lng="11.09779" name="S-Bhf Dürrenhof" number="4626" spot="1" uid="66119"/>
+			<place lat="49.44466" lng="11.11148" name="S-Bhf Gleißhammer" number="4642" spot="1" uid="66138"/>
+			<place lat="49.45498" lng="11.11869" name="S-Bhf Ostring(Business-Tower)" number="4623" spot="1" uid="66116"/>
+			<place lat="49.42964" lng="11.05525" name="S-Bhf Sandreuth" number="4643" spot="1" uid="66139"/>
+			<place lat="49.46421" lng="11.08576" name="Schillerplatz" number="4615" spot="1" uid="66107"/>
+			<place lat="49.45336" lng="11.04836" name="Schwurgerichtssaal 600   " number="4631" spot="1" uid="66124"/>
+			<place lat="49.4446" lng="11.06832" name="Steinbühler Tunnel   " number="4612" spot="1" uid="66104"/>
+			<place lat="49.43587" lng="11.11622" name="Straßenbahn Dutzendteich" number="4635" spot="1" uid="66128"/>
+			<place lat="49.42952" lng="11.01766" name="Südwestpark (Fitnessstudio)" number="4651" spot="1" uid="66150"/>
+			<place lat="49.42797" lng="11.0227" name="Südwestpark (Nordost)" number="4652" spot="1" uid="66151"/>
+			<place lat="49.42808" lng="11.01973" name="Südwestpark (Zentral)" number="4654" spot="1" uid="66153"/>
+			<place lat="49.45572" lng="11.07825" name="Theresienstraße/Rathaus" number="4614" spot="1" uid="66106"/>
+			<place lat="49.45012" lng="11.1385" name="Tiergarten" number="4622" spot="1" uid="66115"/>
+			<place lat="49.45819" lng="11.07346" name="Tiergärtnertor" number="4663" spot="1" uid="103593"/>
+			<place lat="49.44808" lng="11.08191" name="Tourist-Info" number="4619" spot="1" uid="66112"/>
+			<place lat="49.43998" lng="11.08053" name="U-Bhf Aufseßplatz" number="4649" spot="1" uid="66146"/>
+			<place lat="49.42872" lng="11.08636" name="U-Bhf Frankenstraße" number="4645" spot="1" uid="66141"/>
+			<place lat="49.45081" lng="11.05573" name="U-Bhf Gostenhof" number="4628" spot="1" uid="66121"/>
+			<place lat="49.43862" lng="11.03566" name="U-Bhf Gustav-Adolf-Straße" number="4647" spot="1" uid="66143"/>
+			<place lat="49.47848" lng="11.11011" name="U-Bhf Herrenhütte" number="4657" spot="1" uid="66157"/>
+			<place lat="49.45533" lng="11.04164" name="U-Bhf Maximilianstraße" number="4629" spot="1" uid="66122"/>
+			<place lat="49.41657" lng="11.11388" name="U-Bhf Messe" number="4664" spot="1" uid="103594"/>
+			<place lat="49.47249" lng="11.10431" name="U-Bhf Nordostbahnhof" number="4656" spot="1" uid="66155"/>
+			<place lat="49.46072" lng="11.09252" name="U-Bhf Rennweg" number="4617" spot="1" uid="66110"/>
+			<place lat="49.42082" lng="11.03248" name="U-Bhf Röthenbach" number="4655" spot="1" uid="66154"/>
+			<place lat="49.46432" lng="11.10035" name="U-Bhf Schoppershof" number="4630" spot="1" uid="66123"/>
+			<place lat="49.43485" lng="11.04889" name="U-Bhf Schweinau" number="4646" spot="1" uid="103590"/>
+			<place lat="49.45285" lng="11.08773" name="U-Bhf Wöhrder Wiese" number="4616" spot="1" uid="66108"/>
+			<place lat="49.48422" lng="11.10472" name="U-Bhf Ziegelstein" number="4658" spot="1" uid="66158"/>
+			<place lat="49.4426" lng="11.12115" name="Valznerweiherstr./ B 4R" number="4624" spot="1" uid="66117"/>
+			<place lat="49.45101" lng="11.06974" name="Vordere Ledergasse/Schlotfegergasse" number="4606" spot="1" uid="66097"/>
+			<place lat="49.43623" lng="11.02714" name="Wallensteinstraße/Dieckmannstraße" number="4662" spot="1" uid="68595"/>
+			<place lat="49.45675" lng="11.05284" name="Westbad/Wiesentalstraße" number="4666" spot="1" uid="103597"/>
+			<place lat="49.46119" lng="11.04935" name="Westfriedhof " number="4632" spot="1" uid="66125"/>
+			<place lat="49.44835" lng="11.08694" name="Willy-Brandt-Platz" number="4661" spot="1" uid="103592"/>
+			<place lat="49.4313" lng="11.11233" name="Winterlager Kongreßhalle" number="4700" uid="117112"/>
+			<place lat="49.43631" lng="11.0913" name="Wodanstraße/Allersberger Straße" number="4648" spot="1" uid="66145"/>
+			<place lat="49.45121" lng="11.10392" name="Wöhrder See - Norikerstraße" number="4627" spot="1" uid="66120"/>
+		</city>
+	</country>
+	<country domain="tr" hotline="+903323423523" lat="39.0277" lng="33.6621" name="nextbike Turkey" zoom="5">
+		<city lat="37.8715" lng="32.4957" name="Konya" uid="183" zoom="13">
+			<place lat="37.91785" lng="32.509" name="1.ORGANİZE TRAMVAY İŞLETME KARŞISI" number="6526" spot="1" uid="111492"/>
+			<place lat="37.84869" lng="32.49894" name="A.ÖZCAN CAD.ZAFER İ.Ö.O.ÖNÜ" number="6531" spot="1" uid="98262"/>
+			<place lat="37.87232" lng="32.49448" name="ALAADDİN BULVARI İŞ BANKASI ÖNÜ" number="6510" spot="1" uid="83631"/>
+			<place lat="37.88605" lng="32.49806" name="ANKARA CAD. EMNİYET MÜDÜRLÜĞÜ YANI" number="6504" spot="1" uid="102114"/>
+			<place lat="37.86898" lng="32.53909" name="ASLANLIKIŞLA CAD." number="6532" spot="1" uid="102922"/>
+			<place lat="37.86912" lng="32.51357" name="ASLANLIKIŞLA CAD.HİLTON GARDEN ÖNÜ" number="6528" spot="1" uid="111489"/>
+			<place lat="37.85847" lng="32.47709" name="AZERBAYCAN CAD.TAPU KADASTRO KARŞISI" number="6514" spot="1" uid="102115"/>
+			<place lat="37.88483" lng="32.45803" name="BEYŞEHİR CAD.BAŞKENT HASTANESİ KARŞISI" number="6523" spot="1" uid="111490"/>
+			<place lat="37.8923" lng="32.4761" name="BEYŞEHİR CAD.DEDEMAN OTEL ÖNÜ" number="6537" spot="1" uid="111488"/>
+			<place lat="37.86715" lng="32.48397" name="FERİTPAŞA CAD.D.S.İ.ÖNÜ" number="6501" spot="1" uid="83619"/>
+			<place lat="38.00928" lng="32.5204" name="GENÇLİK MERKEZİ BOSNA" number="6533" spot="1" uid="110242"/>
+			<place lat="37.97894" lng="32.51699" name="İSTANBUL YOLU FARABİ HASTANESİ KAVŞAĞI" number="6539" spot="1" uid="102915"/>
+			<place lat="37.94982" lng="32.51327" name="İSTANBUL YOLU OTOGAR KARŞISI" number="6527" spot="1" uid="98271"/>
+			<place lat="37.8289" lng="32.51675" name="KARAMAN YOLU KAVŞAĞI ÜST GEÇİT" number="6536" spot="1" uid="102921"/>
+			<place lat="37.87456" lng="32.49189" name="KARATAY MEDRESE ÖNÜ" number="6508" spot="1" uid="83629"/>
+			<place lat="37.87094" lng="32.49031" name="KAZIM KARABEKİR CAD.1 CAMLIKÖŞK ÖNÜ" number="6509" spot="1" uid="83630"/>
+			<place lat="37.87053" lng="32.48641" name="KAZIM KARABEKİRCAD.2 DİSCOVERY KARŞISI" number="6515" spot="1" uid="83637"/>
+			<place lat="37.87506" lng="32.4851" name="KEMERLİ CAD.MALİYE KARŞISI" number="6517" spot="1" uid="83639"/>
+			<place lat="37.87688" lng="32.48699" name="KONYA BÜYÜKŞEHİR BELEDİYESİ ÖNÜ" number="6518" spot="1" uid="80251"/>
+			<place lat="37.88835" lng="32.49368" name="KULE SİTE A.V.M. YANI" number="6519" spot="1" uid="83640"/>
+			<place lat="37.87405" lng="32.48966" name="KÜLTÜR PARK A GİRİŞİ ÖNÜ" number="6511" spot="1" uid="83632"/>
+			<place lat="37.86582" lng="32.48888" name="LARENDE CAD.BALIK HALİ ÖNÜ" number="6502" spot="1" uid="102116"/>
+			<place lat="37.87777" lng="32.48324" name="M.HULUSİ BAYBAL CAD.BERA OTEL KARŞISI" number="6516" spot="1" uid="83638"/>
+			<place lat="37.87207" lng="32.49886" name="MEVLANA CAD. HÜKÜMET MEYDANI ŞERAFETTİN CAMİİ ÖNÜ" number="6506" spot="1" uid="83627"/>
+			<place lat="37.87175" lng="32.49837" name="MEVLANA CAD.KAYALIPARK YANI" number="6507" spot="1" uid="83628"/>
+			<place lat="37.87098" lng="32.50371" name="MEVLANA MÜZESİ ÖNÜ" number="6505" spot="1" uid="83626"/>
+			<place lat="38.01023" lng="32.52662" name="OVAL ÇARŞI BOSNA" number="6530" spot="1" uid="102917"/>
+			<place lat="37.86587" lng="32.50188" name="PİRİESAT CAD.KARATAY BELEDİYE ÖNÜ" number="6503" spot="1" uid="102117"/>
+			<place lat="37.88255" lng="32.48807" name="RAUF DENKTAŞ CAD. NENE HATUN PARKI ÖNÜ" number="6520" spot="1" uid="83642"/>
+			<place lat="38.01976" lng="32.51528" name="SELÇUK ÜNİVERSİTESİ KAMPÜS" number="6525" spot="1" uid="117985"/>
+			<place lat="37.92889" lng="32.50951" name="SELÇUKLU BEL.ALT GEÇİT YANI" number="6529" spot="1" uid="102911"/>
+			<place lat="37.87087" lng="32.45873" name="SİVASLI ALİ KEMAL CAD.MELİKŞAH PARKI ÖNÜ" number="6534" spot="1" uid="98258"/>
+			<place lat="37.87607" lng="32.42884" name="TIP FAKÜLTESİ MERAM KARŞISI" number="6538" spot="1" uid="111491"/>
+			<place lat="37.86272" lng="32.54322" name="YENİ ADLİYE ÖNÜ" number="6524" spot="1" uid="111776"/>
+			<place lat="37.85322" lng="32.42251" name="YENİ MERAM CAD.ÇINARALTI RESTAURANT KARŞISI" number="6521" spot="1" uid="98255"/>
+			<place lat="37.86442" lng="32.45363" name="YENİ MERAM CAD.EĞİTİM FAKÜLTESİ ÖNÜ" number="6535" spot="1" uid="98260"/>
+			<place lat="37.86176" lng="32.44536" name="YENİ MERAM CAD.MERAM EĞİTİM ARAŞTIRMA HASTANESİ ÖNÜ" number="6540" spot="1" uid="98257"/>
+			<place lat="37.87211" lng="32.48505" name="ZİNDANKALE MAREŞAL İ.Ö.O. YANI" number="6512" spot="1" uid="102113"/>
+		</city>
+	</country>
+	<country domain="mr" hotline="+493069205046" lat="51.5019" lng="7.2757" name="metropolradruhr Germany" zoom="9">
+		<city lat="51.4813" lng="7.2133" name="Bochum" uid="130" zoom="14">
+			<place lat="51.48908" lng="7.21576" name="Bergbaumuseum" number="7102" spot="1" uid="50341"/>
+			<place lat="51.47694" lng="7.21509" name="Bermuda 3Eck / Viktoriastraße" number="7110" spot="1" uid="50348"/>
+			<place lat="51.42683" lng="7.1423" name="Dahlhausen Bahnhof" number="7103" spot="1" uid="50342"/>
+			<place lat="51.43284" lng="7.12582" name="Eisenbahnmuseum" number="7104" spot="1" uid="50343"/>
+			<place lat="51.47961" lng="7.22222" name="Hauptbahnhof" number="7105" spot="1" uid="50344"/>
+			<place lat="51.48302" lng="7.21531" name="Rathaus / Gustav-Heinemann-Platz" number="7106" spot="1" uid="50345"/>
+			<place lat="51.48184" lng="7.21492" name="Rathaus / Willy-Brandt-Platz" number="7107" spot="1" uid="50346"/>
+			<place lat="51.47282" lng="7.21667" name="Schauspielhaus" number="7109" spot="1" uid="50347"/>
+		</city>
+		<city lat="51.5263" lng="6.94611" name="Bottrop" uid="131" zoom="11">
+			<place lat="51.52429" lng="6.92814" name="Am Trapez" number="7208" spot="1" uid="50356"/>
+			<place lat="51.52304" lng="6.92638" name="Berliner Platz" number="7202" spot="1" uid="50351"/>
+			<place lat="51.5368" lng="6.97208" name="Boyer Markt" number="7215" spot="1" uid="50363"/>
+			<place lat="51.52887" lng="6.929" name="Brauhaus" number="7209" spot="1" uid="50357"/>
+			<place lat="51.54765" lng="6.93705" name="Eigen Markt" number="7211" spot="1" uid="50359"/>
+			<place lat="51.52413" lng="6.92486" name="Ernst-Wilczok-Platz" number="7206" spot="1" uid="50354"/>
+			<place lat="51.53178" lng="6.89163" name="Goethestraße" number="7216" spot="1" uid="50364"/>
+			<place lat="51.50996" lng="6.93648" name="Hauptbahnhof" number="7201" spot="1" uid="50349"/>
+			<place lat="51.51531" lng="6.90854" name="Knappschaftskrankenhaus" number="7204" spot="1" uid="50352"/>
+			<place lat="51.52359" lng="6.92273" name="Kulturzentrum" number="7205" spot="1" uid="50353"/>
+			<place lat="51.53332" lng="6.91687" name="Marienhospital" number="7212" spot="1" uid="50360"/>
+			<place lat="51.52208" lng="6.92369" name="Pferdemarkt" number="7203" spot="1" uid="50350"/>
+			<place lat="51.5041" lng="6.93574" name="Plankenschemm/Pendlerparkplatz A 42" number="7210" spot="1" uid="50358"/>
+			<place lat="51.53138" lng="6.9193" name="Quadrat" number="7213" spot="1" uid="50361"/>
+			<place lat="51.52537" lng="6.95377" name="Tetraeder" number="7214" spot="1" uid="50362"/>
+			<place lat="51.51904" lng="6.92595" name="Untere Hochstraße" number="7207" spot="1" uid="50355"/>
+		</city>
+		<city lat="51.5141" lng="7.46255" name="Dortmund" uid="129" zoom="14">
+			<place lat="51.51573" lng="7.50293" name="Berliner Straße" number="7345" spot="1" uid="113554"/>
+			<place lat="51.51908" lng="7.46008" name="Cinestar" number="7304" spot="1" uid="50368"/>
+			<place lat="51.5183" lng="7.47496" name="Geschwister-Scholl-Straße" number="7343" spot="1" uid="113552"/>
+			<place lat="51.50631" lng="7.47053" name="Hainallee / Südbad" number="7351" spot="1" uid="113561"/>
+			<place lat="51.51262" lng="7.46351" name="Hansastraße" number="7312" spot="1" uid="50376"/>
+			<place lat="51.51661" lng="7.45987" name="Hauptbahnhof gegenüber Hauptausgang" number="7306" spot="1" uid="50370"/>
+			<place lat="51.51898" lng="7.45913" name="Hauptbahnhof Nordausgang" number="7303" spot="1" uid="50367"/>
+			<place lat="51.52001" lng="7.4645" name="Heiligegartenstraße" number="7338" spot="1" uid="113544"/>
+			<place lat="51.51078" lng="7.4742" name="Heiliger Weg / Kronprinzenstraße" number="7354" spot="1" uid="117829"/>
+			<place lat="51.49392" lng="7.46936" name="Hilton Dortmund" spot="1" uid="122032"/>
+			<place lat="51.51031" lng="7.46224" name="Hiltropwall" number="7315" spot="1" uid="50379"/>
+			<place lat="51.50503" lng="7.53278" name="Holiday Inn" spot="1" uid="122117"/>
+			<place lat="51.49368" lng="7.38283" name="Hotel Ibis West Dortmund" spot="1" uid="122026"/>
+			<place lat="51.51536" lng="7.46208" name="Kampstraße/Freistuhl" number="7309" spot="1" uid="50373"/>
+			<place lat="51.49885" lng="7.48975" name="Karl-Liebknecht-Straße" number="7328" spot="1" uid="50392"/>
+			<place lat="51.51683" lng="7.46919" name="Kuckelke" number="7308" spot="1" uid="50372"/>
+			<place lat="51.5004" lng="7.44058" name="Kuithanstraße" number="7355" spot="1" uid="118419"/>
+			<place lat="51.54044" lng="7.44639" name="Lager" number="7399" uid="49934"/>
+			<place lat="51.52206" lng="7.4598" name="Leopoldstraße" number="7301" spot="1" uid="50365"/>
+			<place lat="51.50198" lng="7.47342" name="Markgrafenstraße" number="7347" spot="1" uid="113556"/>
+			<place lat="51.50747" lng="7.45124" name="Möllerbrücke" number="7321" spot="1" uid="50385"/>
+			<place lat="51.51004" lng="7.46754" name="Platz am Südwall" number="7323" spot="1" uid="50387"/>
+			<place lat="51.51512" lng="7.46403" name="Platz von Netanya" number="7320" spot="1" uid="50384"/>
+			<place lat="51.50064" lng="7.45948" name="Polizeipräsidium" number="7350" spot="1" uid="113559"/>
+			<place lat="51.52226" lng="7.46461" name="Priorstraße / Münsterstraße" number="7340" spot="1" uid="113550"/>
+			<place lat="51.51673" lng="7.46177" name="RWE Tower" number="7307" spot="1" uid="50371"/>
+			<place lat="51.50526" lng="7.45991" name="Saarlandstraße/Hohe Straße" number="7325" spot="1" uid="50389"/>
+			<place lat="51.51403" lng="7.47257" name="Schwanenwall" number="7311" spot="1" uid="50375"/>
+			<place lat="51.49074" lng="7.45733" name="Signal-Iduna-Park Bahnhof" number="7332" spot="1" uid="50396"/>
+			<place lat="51.51097" lng="7.46452" name="Stadtgarten" number="7316" spot="1" uid="50380"/>
+			<place lat="51.5083" lng="7.46853" name="Stadthaus" number="7324" spot="1" uid="50388"/>
+			<place lat="51.50899" lng="7.45751" name="Städtische Kliniken" number="7322" spot="1" uid="50386"/>
+			<place lat="51.51296" lng="7.44898" name="Unionstraße" number="7318" spot="1" uid="50382"/>
+			<place lat="51.51312" lng="7.46705" name="Volksbank" number="7314" spot="1" uid="50378"/>
+			<place lat="51.5141" lng="7.49632" name="Von-der-Tann-Straße" number="7344" spot="1" uid="113553"/>
+			<place lat="51.51378" lng="7.45589" name="Westentor" number="7319" spot="1" uid="50383"/>
+			<place lat="51.4967" lng="7.45937" name="Westfalenhallen" number="7331" spot="1" uid="50395"/>
+			<place lat="51.49611" lng="7.47012" name="Westfalenpark" number="7330" spot="1" uid="50394"/>
+			<place lat="51.49856" lng="7.47721" name="Westfalenpark/Am Kaiserhain" number="7329" spot="1" uid="50393"/>
+			<place lat="51.51284" lng="7.46523" name="Wißstraße" number="7313" spot="1" uid="50377"/>
+		</city>
+		<city lat="51.4487" lng="6.77513" name="Duisburg" uid="132" zoom="12">
+			<place lat="51.43019" lng="6.76201" name="Dellplatz" number="7415" spot="1" uid="50401"/>
+			<place lat="51.43333" lng="6.76842" name="Forum" number="7411" spot="1" uid="50402"/>
+			<place lat="51.43028" lng="6.77237" name="Hauptbahnhof Haupteingang " number="7410" spot="1" uid="50403"/>
+			<place lat="51.42952" lng="6.7772" name="Hauptbahnhof Osteingang" number="7404" spot="1" uid="50404"/>
+			<place lat="51.43155" lng="6.77509" name="Hauptbahnhof Verknüpfungshalle West" number="7413" spot="1" uid="50414"/>
+			<place lat="51.48048" lng="6.78361" name="Hüttenwerk / Eingang Landschaftspark" number="7417" spot="1" uid="50417"/>
+			<place lat="51.44055" lng="6.77021" name="Lego Discovery" number="7407" spot="1" uid="50406"/>
+			<place lat="51.43095" lng="6.76546" name="Lehmbruckmuseum" number="7401" spot="1" uid="50407"/>
+			<place lat="51.4677" lng="6.78011" name="Meiderich Südbahnhof" number="7406" spot="1" uid="50416"/>
+			<place lat="51.43521" lng="6.7617" name="Rathaus / Burgplatz" number="7408" spot="1" uid="106222"/>
+			<place lat="51.4341" lng="6.76295" name="Rathaus / Kuhstraße" number="7402" spot="1" uid="50412"/>
+			<place lat="51.43585" lng="6.75816" name="Schwanentor" number="7412" spot="1" uid="50410"/>
+			<place lat="51.43411" lng="6.77089" name="Stadttheater" number="7497" spot="1" uid="50411"/>
+			<place lat="51.43845" lng="6.76465" name="Yitzhak-Rabin-Platz" number="7414" spot="1" uid="50415"/>
+		</city>
+		<city lat="51.4425" lng="7.02301" name="Essen" uid="133" zoom="11">
+			<place lat="51.48449" lng="7.00877" name="Altenessen Bahnhof" number="7553" spot="1" uid="113471"/>
+			<place lat="51.49635" lng="7.00852" name="Altenessen Mitte" number="7554" spot="1" uid="113472"/>
+			<place lat="51.45874" lng="7.00419" name="Berliner Platz" number="7501" spot="1" uid="50419"/>
+			<place lat="51.44439" lng="7.00591" name="Bismarckstr / Friedrichstr. " spot="1" uid="122031"/>
+			<place lat="51.4102" lng="6.99295" name="Bredeney" number="7509" spot="1" uid="65920"/>
+			<place lat="51.4439" lng="6.97781" name="Breslauer Straße" number="7550" spot="1" uid="113468"/>
+			<place lat="51.3836" lng="7.00454" name="DJH Jugendherberge Essen" spot="1" uid="122033"/>
+			<place lat="51.44705" lng="6.9784" name="Frohnhauser Platz" number="7547" spot="1" uid="115213"/>
+			<place lat="51.44164" lng="6.99699" name="Gemarkenplatz" number="7510" spot="1" uid="50427"/>
+			<place lat="51.44629" lng="7.07507" name="Grendplatz" number="7541" spot="1" uid="113462"/>
+			<place lat="51.4891" lng="7.06346" name="Handwerker Park" number="7530" spot="1" uid="50442"/>
+			<place lat="51.45216" lng="7.01462" name="Hauptbahnhof Nordausgang" number="7514" spot="1" uid="50445"/>
+			<place lat="51.45052" lng="7.01243" name="Hauptbahnhof Südausgang" number="7511" spot="1" uid="79845"/>
+			<place lat="51.43701" lng="7.00779" name="Hedwigstr / Rosastr" spot="1" uid="122114"/>
+			<place lat="51.44651" lng="7.01985" name="Helbingstraße / RVR / Emschergen." number="7529" spot="1" uid="50446"/>
+			<place lat="51.45181" lng="7.00778" name="Hindenburgstr / Hachestr" spot="1" uid="122116"/>
+			<place lat="51.45442" lng="7.01129" name="Hirschlandplatz" number="7506" spot="1" uid="50424"/>
+			<place lat="51.4528" lng="7.01797" name="Hotel Ibis Essen" spot="1" uid="122028"/>
+			<place lat="51.40321" lng="7.00713" name="Hügel / Regattahaus" number="7522" spot="1" uid="50435"/>
+			<place lat="51.36369" lng="6.95315" name="Kettwig Bahnhof" number="7513" spot="1" uid="50431"/>
+			<place lat="51.36139" lng="6.93724" name="Kettwig Brücke" number="7512" spot="1" uid="50430"/>
+			<place lat="51.45837" lng="7.01122" name="Kopstadtplatz" number="7503" spot="1" uid="50421"/>
+			<place lat="51.43613" lng="6.99848" name="Landgericht" number="7518" spot="1" uid="94286"/>
+			<place lat="51.43952" lng="7.00014" name="Langenbeckstr / Krawehlstr" spot="1" uid="122038"/>
+			<place lat="51.43086" lng="7.11204" name="Linuxhotel Essen" spot="1" uid="122557"/>
+			<place lat="51.43041" lng="6.9989" name="Messe Ost/Gruga" number="7523" spot="1" uid="50426"/>
+			<place lat="51.43288" lng="7.01245" name="Paulinenstraße" number="7540" spot="1" uid="113460"/>
+			<place lat="51.44536" lng="7.00916" name="Philharmonie" number="7505" spot="1" uid="50423"/>
+			<place lat="51.45786" lng="7.01671" name="Rathaus" number="7502" spot="1" uid="50420"/>
+			<place lat="51.43825" lng="7.0056" name="Rüttenscheider Stern" number="7528" spot="1" uid="50425"/>
+			<place lat="51.41981" lng="7.02454" name="Stadtwaldplatz" number="7517" spot="1" uid="98987"/>
+			<place lat="51.4501" lng="7.07576" name="Steele Bahnhof " number="7508" spot="1" uid="50439"/>
+			<place lat="51.43945" lng="7.0235" name="Südbahnhof" number="7525" spot="1" uid="50443"/>
+			<place lat="51.43623" lng="6.99025" name="Uniklinikum" number="7524" spot="1" uid="50428"/>
+			<place lat="51.46364" lng="7.00965" name="Universitätsstraße" number="7520" spot="1" uid="50438"/>
+			<place lat="51.44983" lng="7.02739" name="Versorgungsamt" number="7548" spot="1" uid="120371"/>
+			<place lat="51.46136" lng="7.0135" name="Viehofer Platz" number="7504" spot="1" uid="50422"/>
+			<place lat="51.38658" lng="6.99813" name="Werden Bahnhof" number="7521" spot="1" uid="50432"/>
+			<place lat="51.4539" lng="6.98076" name="Westbahnhof" number="7533" spot="1" uid="79849"/>
+			<place lat="51.48432" lng="7.04286" name="Zollverein" number="7519" spot="1" uid="50440"/>
+		</city>
+		<city lat="51.5404" lng="7.07039" name="Gelsenkirchen" uid="134" zoom="12">
+			<place lat="51.55718" lng="7.0669" name="Arenapark" number="7613" spot="1" uid="110268"/>
+			<place lat="51.58721" lng="7.05022" name="Buer Nordbahnhof" number="7612" spot="1" uid="105713"/>
+			<place lat="51.5783" lng="7.05788" name="Buer Rathaus" number="7609" spot="1" uid="50455"/>
+			<place lat="51.57499" lng="7.02626" name="Fachhochschule" number="7608" spot="1" uid="50454"/>
+			<place lat="51.58153" lng="7.05081" name="Freiheit" number="7611" spot="1" uid="50457"/>
+			<place lat="51.57738" lng="7.05524" name="Goldbergplatz" number="7610" spot="1" uid="50456"/>
+			<place lat="51.50628" lng="7.10064" name="Hauptbahnhof Bahnhofsvorplatz" number="7601" spot="1" uid="50447"/>
+			<place lat="51.50446" lng="7.10285" name="Hauptbahnhof Südausgang" number="7602" spot="1" uid="50448"/>
+			<place lat="51.5104" lng="7.09401" name="Heinrich-König-Platz" number="7603" spot="1" uid="50449"/>
+			<place lat="51.5131" lng="7.09187" name="Musiktheater" number="7604" spot="1" uid="50450"/>
+			<place lat="51.52821" lng="7.03021" name="Nordsternpark" number="7606" spot="1" uid="50452"/>
+			<place lat="51.49492" lng="7.107" name="Rheinelbe-Park" number="7614" spot="1" uid="111961"/>
+			<place lat="51.53677" lng="7.02476" name="Schloss Horst" number="7607" spot="1" uid="50453"/>
+			<place lat="51.50828" lng="7.10892" name="Wildenbruchplatz" number="7617" spot="1" uid="110616"/>
+			<place lat="51.50054" lng="7.10835" name="Wissenschaftspark" number="7615" spot="1" uid="107215"/>
+			<place lat="51.54178" lng="7.11033" name="Zoom-Erlebniswelt" number="7605" spot="1" uid="50451"/>
+		</city>
+		<city lat="51.6775" lng="7.84836" name="Hamm" uid="135" zoom="13">
+			<place lat="51.68119" lng="7.81197" name="Allee-Center" number="7703" spot="1" uid="50460"/>
+			<place lat="51.67879" lng="7.80912" name="Bahnhof" number="7701" spot="1" uid="50458"/>
+			<place lat="51.67988" lng="7.81616" name="Martin-Luther-Platz" number="7704" spot="1" uid="50461"/>
+			<place lat="51.68365" lng="7.88386" name="Maximilianpark" number="7709" spot="1" uid="50466"/>
+			<place lat="51.67914" lng="7.82659" name="Oberlandesgericht" number="7708" spot="1" uid="50465"/>
+			<place lat="51.6901" lng="7.84859" name="Ostenallee / Kurpark" spot="1" uid="122110"/>
+			<place lat="51.67726" lng="7.82193" name="Rathaus" number="7707" spot="1" uid="50464"/>
+			<place lat="51.68098" lng="7.81755" name="Weststraße" number="7705" spot="1" uid="50462"/>
+			<place lat="51.68122" lng="7.82037" name="Widumstraße" number="7706" spot="1" uid="50463"/>
+		</city>
+		<city lat="51.5233" lng="7.14661" name="Herne" uid="136" zoom="10">
+			<place lat="51.53929" lng="7.25696" name="Akademie Mont-Cenis" number="7805" spot="1" uid="50471"/>
+			<place lat="51.53641" lng="7.22622" name="Archäologie-Museum" number="7804" spot="1" uid="50470"/>
+			<place lat="51.51296" lng="7.17971" name="Auf der Wenge / Sankt-Jörgen-Platz" number="7807" spot="1" uid="50473"/>
+			<place lat="51.54431" lng="7.21804" name="Herne Bahnhof" number="7803" spot="1" uid="50469"/>
+			<place lat="51.5463" lng="7.13903" name="Künstlerzeche Unser Fritz" number="7801" spot="1" uid="50467"/>
+			<place lat="51.55175" lng="7.21389" name="Schloß Strünkede" number="7806" spot="1" uid="50472"/>
+			<place lat="51.53157" lng="7.16454" name="Wanne-Eickel Hauptbahnhof" number="7802" spot="1" uid="50468"/>
+		</city>
+		<city lat="51.4308" lng="6.87401" name="Mülheim a.d.R." uid="137" zoom="13">
+			<place lat="51.4375" lng="6.88877" name="Aktienstraße" number="7914" spot="1" uid="113433"/>
+			<place lat="51.40718" lng="6.86975" name="Alte Straße" number="7907" spot="1" uid="50482"/>
+			<place lat="51.42454" lng="6.86247" name="Broicher Mitte" number="7908" spot="1" uid="50484"/>
+			<place lat="51.42061" lng="6.84657" name="Broicher Waldweg" number="7925" spot="1" uid="113452"/>
+			<place lat="51.45873" lng="6.89967" name="Dümpten Friedhof" number="7922" spot="1" uid="113446"/>
+			<place lat="51.45645" lng="6.88725" name="Gathestraße" number="7921" spot="1" uid="113443"/>
+			<place lat="51.43426" lng="6.89312" name="Goetheplatz" number="7915" spot="1" uid="113434"/>
+			<place lat="51.43162" lng="6.88606" name="Hauptbahnhof Nordeingang" number="7902" spot="1" uid="53466"/>
+			<place lat="51.4299" lng="6.88614" name="Hauptbahnhof Westeingang" number="7903" spot="1" uid="50475"/>
+			<place lat="51.43345" lng="6.92508" name="Heißen Kirche" number="7916" spot="1" uid="113435"/>
+			<place lat="51.42804" lng="6.88446" name="Kaiserplatz" number="7904" spot="1" uid="50476"/>
+			<place lat="51.40289" lng="6.87961" name="Klostermarkt" number="7911" spot="1" uid="50483"/>
+			<place lat="51.41852" lng="6.89922" name="Oppspring" number="7919" spot="1" uid="113440"/>
+			<place lat="51.43238" lng="6.82405" name="Raffelberg" number="7924" spot="1" uid="113451"/>
+			<place lat="51.42781" lng="6.86956" name="Ringlokschuppen/Schloss Broich" number="7909" spot="1" uid="50481"/>
+			<place lat="51.42613" lng="6.87322" name="Ruhrufer" spot="1" uid="122030"/>
+			<place lat="51.39589" lng="6.86681" name="Sanddornweg" number="7926" spot="1" uid="113453"/>
+			<place lat="51.42771" lng="6.87371" name="Schloss Broich/Stadthalle" number="7913" spot="1" uid="50485"/>
+			<place lat="51.42903" lng="6.83955" name="Speldorf-Betriebshof" number="7923" spot="1" uid="113450"/>
+			<place lat="51.42321" lng="6.89137" name="Sportzentrum Südstraße" number="7918" spot="1" uid="113438"/>
+			<place lat="51.42687" lng="6.88012" name="Stadtmitte/Leineweberstraße" number="7910" spot="1" uid="50477"/>
+			<place lat="51.44864" lng="6.8525" name="Styrum Bahnhof" number="7906" spot="1" uid="50480"/>
+			<place lat="51.42794" lng="6.89393" name="Von-Bock-Straße" number="7917" spot="1" uid="113436"/>
+			<place lat="51.42247" lng="6.87591" name="Wasserbahnhof" number="7901" spot="1" uid="50474"/>
+			<place lat="51.42498" lng="6.88184" name="Wertgasse" number="7912" spot="1" uid="50478"/>
+			<place lat="51.4393" lng="6.87868" name="Wiesenstraße" number="7905" spot="1" uid="50479"/>
+		</city>
+		<city lat="51.4936" lng="6.85169" name="Oberhausen" uid="138" zoom="12">
+			<place lat="51.4737" lng="6.85353" name="Hauptbahnhof Oberhausen" number="7001" spot="1" uid="50486"/>
+			<place lat="51.53386" lng="6.80913" name="Holten Bahnhof" number="7013" spot="1" uid="112102"/>
+			<place lat="51.52451" lng="6.78819" name="Holten Markt" number="7014" spot="1" uid="111766"/>
+			<place lat="51.51539" lng="6.84938" name="Innenstadt Sterkrade" number="7007" spot="1" uid="50492"/>
+			<place lat="51.46865" lng="6.85504" name="Marktstraße / Wörthstraße" number="7008" spot="1" uid="50493"/>
+			<place lat="51.48967" lng="6.87408" name="Neue Mitte/CentrO." number="7002" spot="1" uid="50487"/>
+			<place lat="51.50025" lng="6.8851" name="Osterfeld Süd" number="7010" spot="1" uid="121102"/>
+			<place lat="51.47337" lng="6.85985" name="Rathaus Oberhausen" number="7006" spot="1" uid="50491"/>
+			<place lat="51.49267" lng="6.86117" name="Schloss Oberhausen" number="7005" spot="1" uid="50490"/>
+			<place lat="51.54125" lng="6.81873" name="Schmachtendorf Mitte" number="7012" spot="1" uid="110792"/>
+			<place lat="51.51257" lng="6.84446" name="Sterkrade Bahnhof" number="7003" spot="1" uid="50488"/>
+			<place lat="51.47481" lng="6.8496" name="Westausgang Hbf/LVR-Industriemuseum" number="7004" spot="1" uid="50489"/>
+		</city>
+	</country>
+	<country domain="cy" hotline="+35777788323" lat="35.066" lng="33.3984" name="nextbike Cyprus" zoom="8">
+		<city lat="34.6823" lng="33.0464" name="Limassol" uid="190" zoom="13">
+			<place lat="34.70956" lng="33.13363" name="Agios Tychonas" number="6756" spot="1" uid="117202"/>
+			<place lat="34.70596" lng="33.11754" name="Agios Tychonas 2" number="6755" spot="1" uid="117209"/>
+			<place lat="34.68765" lng="33.06737" name="Holiday Inn" number="6751" spot="1" uid="117206"/>
+			<place lat="34.67438" lng="33.02895" name="Misiaouli &amp; kavazoglou" number="6753" spot="1" uid="117205"/>
+			<place lat="34.67862" lng="33.05176" name="Molos" number="6750" spot="1" uid="115696"/>
+			<place lat="34.71437" lng="33.16278" name="Pareklisia" number="6752" spot="1" uid="117207"/>
+			<place lat="34.71441" lng="33.1623" name="Potamos Germasogias" number="6754" spot="1" uid="117210"/>
+		</city>
+	</country>
+</markers>

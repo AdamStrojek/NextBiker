@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NextBiker</string>
+    <string name="login.phone_number">Phone Number:</string>
+    <string name="login.pin_code">PIN Code:</string>
+    <string name="login.login">Login</string>
+    <string name="login.remember_me">Remember me</string>
+    <string name="login.register">Register</string>
+    <string name="login.lost_pin">Lost PIN</string>
+    <string name="login.register_hint">Now you will be redirected to official NextBike page where you can registry</string>
+    <string name="login.label">NextBiker — Login</string>
+    <string name="lookup.bike_no">Bike Number:</string>
+    <string name="lookup.rent">Rent</string>
+    <string name="menu.logout">Logout</string>
+    <string name="menu.email">Send Email</string>
+    <string name="login.loading">Loading…</string>
+    <string name="menu.open_in_browser">Open in Browser…</string>
+    <string name="login.license">Do you accept &lt;a href=&quot;http://www.google.pl/&quot;&gt;our license&lt;/a&gt; and license of &lt;a href=&quot;http://www.nextbike.pl/fileadmin/user_upload/Presse/PL/20110531_Regulamin_WRM.pdf&quot;&gt;bikes provider&lt;/a&gt;</string>
+    <string name="rential.time">Rential time:</string>
+    <string name="rential.cost">Cost:</string>
+    <string name="rential.return">Return</string>
+    <string name="rential.bike_no">Bike Number:</string>
+    <string name="rential.lock_code">Lock Code:</string>
+    <string name="lookup.bike_numer_not_entered">Bike number has not been entered!</string>
+    <string name="login.bad_phone_or_pin">You have entered bad phone or pin number. Please try again</string>
+    <string name="login.menu.i_dont_trust_you">I don\'t trust you!</string>
+</resources>
